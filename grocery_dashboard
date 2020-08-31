@@ -3,534 +3,94 @@
   "message": "",
   "data": [
     {
-      "type": 15,
-      "title": "",
-      "viewMore": "",
-      "widgetData": [
-        {
-          "image": "",
-          "deeplink": "",
-          "point": "12345",
-          "aed": "125"
-        }
-      ]
-    },
-    {
-      "type": 16,
-      "title": "",
-      "viewMore": "",
+      "type": 1,
       "widgetData": [
         {
           "name": "Free Delivery on order above 300 AED",
-          "deeplink": ""
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/f\/r\/fresh-tilapia-fish_front.jpg"
         }
       ]
     },
     {
-      "type": 18,
-      "title": "",
-      "viewMore": "",
+      "type": 2,
       "widgetData": [
         {
-          "name": "",
-          "deeplink": "",
-          "url": "/news/latest"
-        }
-      ]
-    },
-    {
-      "type": 17,
-      "title": "",
-      "viewMore": "",
-      "widgetData": [
-        {
-          "name": "Top Product",
-          "items": [
-            {
-              "pro_id": "25388",
-              "name": "Fresh Tilapia Fish, Per Kg, Egypt",
-              "avail_qty": 0,
-              "sku": "26823",
-              "normal_price": "18.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "is_manage_stock": false,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/f\/r\/fresh-tilapia-fish_front.jpg",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": true
-            },
-            {
-              "pro_id": "25409",
-              "name": "Shrimps 20-30 Fresh, Per Kg, Pakistan",
-              "avail_qty": 0,
-              "sku": "27155",
-              "normal_price": "52.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/h\/shrimps_20-30_fresh_per_kg_pakistan.jpg",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": true
-            },
-            {
-              "pro_id": "63334",
-              "name": "Fresh Squid 20-30, Per Kg, Pakistan",
-              "avail_qty": 0,
-              "sku": "26968",
-              "normal_price": "31.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/f\/r\/fresh-squid-20-30_front.jpg",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": true,
-              "is_custom_option_available": true
-            },
-            {
-              "pro_id": "25335",
-              "name": "Bia-H Small Fish, Per Kg, Uae",
-              "avail_qty": 0,
-              "sku": "14308",
-              "normal_price": "17.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "is_manage_stock": false,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "is_grocery_product": "1",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/b\/i\/bia-h-small-fish_front.jpg",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": true
-            },
-            {
-              "pro_id": "17641",
-              "name": "Salmon Fillet Portion Ski, Per Kg, Norway",
-              "avail_qty": 0,
-              "sku": "33801",
-              "normal_price": "86.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/a\/salmon-fillet-portion-with-skin_front.jpg",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": false
-            },
-            {
-              "pro_id": "17535",
-              "name": "Fresh Garfa Fish, Per Kg, Uae",
-              "avail_qty": 0,
-              "sku": "14283",
-              "normal_price": "24.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/placeholder\/default\/union-coop-placeholder-image-265X265.png",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": true
-            },
-            {
-              "pro_id": "21284",
-              "name": "Sea Bass Fish, Per Kg, Turkey",
-              "avail_qty": 0,
-              "sku": "23499",
-              "normal_price": "39.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/e\/sea-bass-fish_front.jpg",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": true
-            },
-            {
-              "pro_id": "21287",
-              "name": "Sea Braem Fish, Per Kg, Turkey",
-              "avail_qty": 0,
-              "sku": "24537",
-              "normal_price": "40.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/e\/sea-braem-fish_front.jpg",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": true
-            }
-          ]
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg",
+          "deeplink": "magazine/https://ucsmartapp.unioncoop.ae/data/promotions/AlBadaa--Eng.pdf"
         },
         {
-          "name": "Most Popular Product",
-          "items": [
-            {
-              "pro_id": "25388",
-              "name": "Fresh Tilapia Fish, Per Kg, Egypt",
-              "avail_qty": 0,
-              "sku": "26823",
-              "normal_price": "18.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "is_manage_stock": false,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/f\/r\/fresh-tilapia-fish_front.jpg",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": true
-            },
-            {
-              "pro_id": "25409",
-              "name": "Shrimps 20-30 Fresh, Per Kg, Pakistan",
-              "avail_qty": 0,
-              "sku": "27155",
-              "normal_price": "52.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/h\/shrimps_20-30_fresh_per_kg_pakistan.jpg",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": true
-            },
-            {
-              "pro_id": "63334",
-              "name": "Fresh Squid 20-30, Per Kg, Pakistan",
-              "avail_qty": 0,
-              "sku": "26968",
-              "normal_price": "31.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/f\/r\/fresh-squid-20-30_front.jpg",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": true,
-              "is_custom_option_available": true
-            },
-            {
-              "pro_id": "25335",
-              "name": "Bia-H Small Fish, Per Kg, Uae",
-              "avail_qty": 0,
-              "sku": "14308",
-              "normal_price": "17.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "is_manage_stock": false,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "is_grocery_product": "1",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/b\/i\/bia-h-small-fish_front.jpg",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": true
-            },
-            {
-              "pro_id": "17641",
-              "name": "Salmon Fillet Portion Ski, Per Kg, Norway",
-              "avail_qty": 0,
-              "sku": "33801",
-              "normal_price": "86.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/a\/salmon-fillet-portion-with-skin_front.jpg",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": false
-            },
-            {
-              "pro_id": "17535",
-              "name": "Fresh Garfa Fish, Per Kg, Uae",
-              "avail_qty": 0,
-              "sku": "14283",
-              "normal_price": "24.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/placeholder\/default\/union-coop-placeholder-image-265X265.png",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": true
-            },
-            {
-              "pro_id": "21284",
-              "name": "Sea Bass Fish, Per Kg, Turkey",
-              "avail_qty": 0,
-              "sku": "23499",
-              "normal_price": "39.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/e\/sea-bass-fish_front.jpg",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": true
-            },
-            {
-              "pro_id": "21287",
-              "name": "Sea Braem Fish, Per Kg, Turkey",
-              "avail_qty": 0,
-              "sku": "24537",
-              "normal_price": "40.00",
-              "special_price": "0.00",
-              "tamayaz_price": "0.00",
-              "packing": null,
-              "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
-              "is_favourite": "0",
-              "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/e\/sea-braem-fish_front.jpg",
-              "udstr4": "W",
-              "selling_unit": "KG",
-              "available_stock": true
-            }
-          ]
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Ar.jpg",
+          "deeplink": "items/456"
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-App-Banner2--HD--16.jpg",
+          "deeplink": "magazine/https://ucsmartapp.unioncoop.ae/data/promotions/HD16-2020-compressed.pdf"
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-App-Banner-1-Drive-Thru-29-4-2020.jpg",
+          "deeplink": "magazine/https://ucsmartapp.unioncoop.ae/data/promotions/Drive-Through-Flyer5-2020.pdf"
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/notice-23-4-2020-mob.jpg",
+          "deeplink": "items/545"
         }
       ]
     },
     {
       "type": 3,
-      "title": "",
-      "viewMore": "",
       "widgetData": [
         {
-          "deeplink": "items/3268",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Banner-Katrina-Sweets-app.jpg"
-        },
-        {
-          "deeplink": "items/3264",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/mobile-banner.jpg"
-        },
-        {
-          "deeplink": "items/3263",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/New-Arrival-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/3261",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Outdoors-_-Camping.jpg"
-        },
-        {
-          "deeplink": "items/3068",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/exclusive-in-union-coop.jpg"
-        },
-        {
-          "deeplink": "items/3067",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Best-Price.jpg"
-        },
-        {
-          "deeplink": "category/3065",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Screenshot_20191221-152133_Gallery.jpg"
-        },
-        {
-          "deeplink": "items/3010",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/automobile.jpg"
-        },
-        {
-          "deeplink": "category/2784",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/20191219_193105_1.jpg"
-        },
-        {
-          "deeplink": "category/2778",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fashion.jpg"
-        },
-        {
-          "deeplink": "category/2777",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Kitchen.jpg"
-        },
-        {
-          "deeplink": "category/2776",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Sports-_-Fitness.jpg"
-        },
-        {
-          "deeplink": "items/2775",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Office-Supplies-_-Stationery.jpg"
-        },
-        {
-          "deeplink": "category/2769",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Health-_-Beauty.jpg"
-        },
-        {
-          "deeplink": "category/2764",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Pet-Shop.jpg"
-        },
-        {
-          "deeplink": "items/77",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Luggage-_-Trolley.jpg"
-        },
-        {
-          "deeplink": "items/76",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/kids-toys-33.jpg"
-        }
-      ]
-    },
-    {
-      "type": 1,
-      "title": "",
-      "viewMore": "",
-      "widgetData": [
-        {
-          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg",
-          "deeplink": "pdf/https://ucsmartapp.unioncoop.ae/data/promotions/AlBadaa--Eng.pdf"
-        },
-        {
-          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Ar.jpg",
-          "deeplink": "pdf/https://ucsmartapp.unioncoop.ae/data/promotions/AlBadaa--Ar.pdf"
-        },
-        {
-          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-App-Banner2--HD--16.jpg",
-          "deeplink": "pdf/https://ucsmartapp.unioncoop.ae/data/promotions/HD16-2020-compressed.pdf"
-        },
-        {
-          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-App-Banner-1-Drive-Thru-29-4-2020.jpg",
-          "deeplink": "pdf/https://ucsmartapp.unioncoop.ae/data/promotions/Drive-Through-Flyer5-2020.pdf"
-        },
-        {
-          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/notice-23-4-2020-mob.jpg",
-          "deeplink": "pdf/https://ucsmartapp.unioncoop.ae/data/promotions/notice 23-4-2020-A4.pdf"
-        }
-      ]
-    },
-    {
-      "type": 2,
-      "title": "Shop Category",
-      "viewMore": "gagga",
-      "widgetData": [
-        {
-          "deeplink": "items/2767",
-          "name": "Baby Care",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2770",
-          "name": "Bread & Bakery",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg"
-        },
-        {
-          "deeplink": "items/2765",
-          "name": "Breakfast, Cereal & Pasta",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2771",
-          "name": "Butchery & Seafood",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg"
-        },
-        {
-          "deeplink": "items/2768",
-          "name": "Cleaning & Homecare",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/2783",
-          "name": "Cooking and Baking",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg"
-        }
-      ]
-    },
-    {
-      "type": 2,
-      "title": "Top Category",
-      "viewMore": "gagga",
-      "widgetData": [
-        {
-          "deeplink": "items/2773",
-          "name": "Canned, Jarred & Packaged",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Cans-Jars-870x422.jpg"
-        },
-        {
-          "deeplink": "items/2774",
-          "name": "Condiments & Seasonings",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Condiments-Seasonings.jpg"
-        },
-        {
-          "deeplink": "items/2763",
-          "name": "Coffee & Tea",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_nescafe_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2755",
-          "name": "Chocolate & Snacks",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_kitkat_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2762",
-          "name": "Dairy, Eggs & Cheese",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_SCM_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2766",
-          "name": "Grains, Rice & Oil",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/grain-rice-oil.jpg"
-        },
-        {
-          "deeplink": "items/2785",
-          "name": "Organic Food",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/organic-items-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/2782",
-          "name": "Union Products",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/union-products-870-422.jpg"
-        },
-        {
-          "deeplink": "items/2754",
-          "name": "Water, Juices & Soft Drinks",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/water-juice-870-422.jpg"
+          "api": "https://ucsmartapp.unioncoop.ae/news"
         }
       ]
     },
     {
       "type": 4,
-      "title": "Shop Category",
-      "viewMore": "gagga",
+      "widgetData": [
+        {
+          "deeplink": "service/1",
+          "name": "Smart Receipt",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
+        },
+        {
+          "deeplink": "service/2",
+          "name": "Shop Online",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg"
+        },
+        {
+          "deeplink": "service/3",
+          "name": "Recipes",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg"
+        },
+        {
+          "deeplink": "service/4",
+          "name": "Promotion",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg"
+        }
+      ]
+    },
+    {
+      "type": 5,
+      "widgetData": [
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg",
+          "name": "Delivery",
+          "deeplink": ""
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Ar.jpg",
+          "name": "Jumla",
+          "deeplink": ""
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-App-Banner2--HD--16.jpg",
+          "name": "Deals",
+          "deeplink": ""
+        }
+      ]
+    },
+    {
+      "type": 6,
       "widgetData": [
         {
           "deeplink": "items/2767",
@@ -571,58 +131,104 @@
           "deeplink": "items/2757",
           "name": "Fruits and Vegetables",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fruits-and-Vegetables-Dubai-Online.jpg"
-        },
-        {
-          "deeplink": "items/2773",
-          "name": "Canned, Jarred & Packaged",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Cans-Jars-870x422.jpg"
-        },
-        {
-          "deeplink": "items/2774",
-          "name": "Condiments & Seasonings",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Condiments-Seasonings.jpg"
-        },
-        {
-          "deeplink": "items/2763",
-          "name": "Coffee & Tea",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_nescafe_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2755",
-          "name": "Chocolate & Snacks",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_kitkat_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2762",
-          "name": "Dairy, Eggs & Cheese",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_SCM_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2766",
-          "name": "Grains, Rice & Oil",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/grain-rice-oil.jpg"
-        },
-        {
-          "deeplink": "items/2785",
-          "name": "Organic Food",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/organic-items-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/2782",
-          "name": "Union Products",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/union-products-870-422.jpg"
-        },
-        {
-          "deeplink": "items/2754",
-          "name": "Water, Juices & Soft Drinks",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/water-juice-870-422.jpg"
         }
       ]
     },
     {
-      "type": 5,
-      "title": "Top Items",
-      "viewMore": "gagga",
+      "type": 7,
+      "widgetData": [
+        {
+          "name": "Top Products",
+          "api": "https://ucsmartapp.unioncoop.ae/top/products"
+        },
+        {
+          "name": "Most Populalr",
+          "api": "https://ucsmartapp.unioncoop.ae/popular/products"
+        },
+        {
+          "name": "Recommendations",
+          "api": "https://ucsmartapp.unioncoop.ae/recommended/products"
+        }
+      ]
+    },
+    {
+      "type": "8",
+      "title": "Mall Store",
+      "widgetData": [
+        {
+          "deeplink": "store/3268",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Banner-Katrina-Sweets-app.jpg"
+        },
+        {
+          "deeplink": "store/3264",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/mobile-banner.jpg"
+        },
+        {
+          "deeplink": "store/3263",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/New-Arrival-online-dubai.jpg"
+        },
+        {
+          "deeplink": "store/3261",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Outdoors-_-Camping.jpg"
+        },
+        {
+          "deeplink": "store/3068",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/exclusive-in-union-coop.jpg"
+        },
+        {
+          "deeplink": "store/3067",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Best-Price.jpg"
+        },
+        {
+          "deeplink": "store/3065",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Screenshot_20191221-152133_Gallery.jpg"
+        },
+        {
+          "deeplink": "store/3010",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/automobile.jpg"
+        },
+        {
+          "deeplink": "store/2784",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/20191219_193105_1.jpg"
+        },
+        {
+          "deeplink": "store/2778",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fashion.jpg"
+        },
+        {
+          "deeplink": "store/2777",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Kitchen.jpg"
+        },
+        {
+          "deeplink": "store/2776",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Sports-_-Fitness.jpg"
+        },
+        {
+          "deeplink": "store/2775",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Office-Supplies-_-Stationery.jpg"
+        },
+        {
+          "deeplink": "store/2769",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Health-_-Beauty.jpg"
+        },
+        {
+          "deeplink": "store/2764",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Pet-Shop.jpg"
+        },
+        {
+          "deeplink": "store/77",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Luggage-_-Trolley.jpg"
+        },
+        {
+          "deeplink": "store/76",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/kids-toys-33.jpg"
+        }
+      ]
+    },
+    {
+      "type": 9,
+      "title": "Grocery",
+      "viewMore": "grocery",
       "widgetData": [
         {
           "pro_id": "25388",
@@ -759,289 +365,16 @@
       ]
     },
     {
-      "type": 6,
-      "title": "Recommended Category",
-      "viewMore": "gagga",
+      "type": 2,
       "widgetData": [
         {
-          "deeplink": "items/2767",
-          "name": "Baby Care",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2770",
-          "name": "Bread & Bakery",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg"
-        },
-        {
-          "deeplink": "items/2765",
-          "name": "Breakfast, Cereal & Pasta",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2771",
-          "name": "Butchery & Seafood",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg"
-        },
-        {
-          "deeplink": "items/2768",
-          "name": "Cleaning & Homecare",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/2783",
-          "name": "Cooking and Baking",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2772",
-          "name": "Frozen & Chilled Food",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/frozen-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/2757",
-          "name": "Fruits and Vegetables",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fruits-and-Vegetables-Dubai-Online.jpg"
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg",
+          "deeplink": "items/456"
         }
       ]
     },
     {
-      "type": 6,
-      "title": "Top Category",
-      "viewMore": "",
-      "widgetData": [
-        {
-          "deeplink": "items/2774",
-          "name": "Condiments & Seasonings",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Condiments-Seasonings.jpg"
-        },
-        {
-          "deeplink": "items/2763",
-          "name": "Coffee & Tea",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_nescafe_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2755",
-          "name": "Chocolate & Snacks",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_kitkat_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2762",
-          "name": "Dairy, Eggs & Cheese",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_SCM_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2766",
-          "name": "Grains, Rice & Oil",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/grain-rice-oil.jpg"
-        },
-        {
-          "deeplink": "items/2785",
-          "name": "Organic Food",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/organic-items-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/2782",
-          "name": "Union Products",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/union-products-870-422.jpg"
-        },
-        {
-          "deeplink": "items/2754",
-          "name": "Water, Juices & Soft Drinks",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/water-juice-870-422.jpg"
-        }
-      ]
-    },
-    {
-      "type": 7,
-      "title": "Recommended Category",
-      "viewMore": "gagga",
-      "widgetData": [
-        {
-          "deeplink": "items/2767",
-          "name": "Baby Care",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2770",
-          "name": "Bread & Bakery",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg"
-        },
-        {
-          "deeplink": "items/2765",
-          "name": "Breakfast, Cereal & Pasta",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2771",
-          "name": "Butchery & Seafood",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg"
-        },
-        {
-          "deeplink": "items/2768",
-          "name": "Cleaning & Homecare",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/2783",
-          "name": "Cooking and Baking",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2772",
-          "name": "Frozen & Chilled Food",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/frozen-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/2757",
-          "name": "Fruits and Vegetables",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fruits-and-Vegetables-Dubai-Online.jpg"
-        }
-      ]
-    },
-    {
-      "type": 7,
-      "title": "Top Category",
-      "viewMore": "",
-      "widgetData": [
-        {
-          "deeplink": "items/2774",
-          "name": "Condiments & Seasonings",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Condiments-Seasonings.jpg"
-        },
-        {
-          "deeplink": "items/2763",
-          "name": "Coffee & Tea",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_nescafe_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2755",
-          "name": "Chocolate & Snacks",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_kitkat_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2762",
-          "name": "Dairy, Eggs & Cheese",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_SCM_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2766",
-          "name": "Grains, Rice & Oil",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/grain-rice-oil.jpg"
-        },
-        {
-          "deeplink": "items/2785",
-          "name": "Organic Food",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/organic-items-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/2782",
-          "name": "Union Products",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/union-products-870-422.jpg"
-        },
-        {
-          "deeplink": "items/2754",
-          "name": "Water, Juices & Soft Drinks",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/water-juice-870-422.jpg"
-        }
-      ]
-    },
-    {
-      "type": 8,
-      "title": "Recommended Category",
-      "viewMore": "gagga",
-      "widgetData": [
-        {
-          "deeplink": "items/2767",
-          "name": "Baby Care",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2770",
-          "name": "Bread & Bakery",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg"
-        },
-        {
-          "deeplink": "items/2765",
-          "name": "Breakfast, Cereal & Pasta",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2771",
-          "name": "Butchery & Seafood",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg"
-        },
-        {
-          "deeplink": "items/2768",
-          "name": "Cleaning & Homecare",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/2783",
-          "name": "Cooking and Baking",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2772",
-          "name": "Frozen & Chilled Food",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/frozen-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/2757",
-          "name": "Fruits and Vegetables",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fruits-and-Vegetables-Dubai-Online.jpg"
-        }
-      ]
-    },
-    {
-      "type": 8,
-      "title": "Category",
-      "viewMore": "",
-      "widgetData": [
-        {
-          "deeplink": "items/2767",
-          "name": "Baby Care",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2770",
-          "name": "Bread & Bakery",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg"
-        },
-        {
-          "deeplink": "items/2765",
-          "name": "Breakfast, Cereal & Pasta",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2771",
-          "name": "Butchery & Seafood",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg"
-        },
-        {
-          "deeplink": "items/2768",
-          "name": "Cleaning & Homecare",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/2783",
-          "name": "Cooking and Baking",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg"
-        },
-        {
-          "deeplink": "items/2772",
-          "name": "Frozen & Chilled Food",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/frozen-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/2757",
-          "name": "Fruits and Vegetables",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fruits-and-Vegetables-Dubai-Online.jpg"
-        }
-      ]
-    },
-    {
-      "type": 9,
+      "type": 10,
       "title": "Reipes",
       "viewMore": "",
       "widgetData": [
@@ -1214,6 +547,49 @@
           "deeplink": "recipe/76",
           "name": "Potato Gratin",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/789pot.jpg"
+        }
+      ]
+    },
+    {
+      "type": 11,
+      "title": "Restaurant",
+      "viewMore": "",
+      "widgetData": [
+        {
+          "deeplink": "restaurant/5",
+          "name": "Thina Food Valley",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/12345.png",
+          "description": "Chinese,indian"
+        },
+        {
+          "deeplink": "restaurant/6",
+          "name": "Chicken King",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/555.png",
+          "description": "Chinese,indian"
+        },
+        {
+          "deeplink": "restaurant/7",
+          "name": "Sambosa Restaurant",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/SAMBOSA.jpg",
+          "description": "Chinese,indian"
+        },
+        {
+          "deeplink": "restaurant/8",
+          "name": "Biryani Kitchen",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/BERIYANY1.png",
+          "description": "Chinese,indian"
+        },
+        {
+          "deeplink": "restaurant/9",
+          "name": "Chicken Pasta Darbar",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/PASTA.png",
+          "description": "Chinese,indian"
+        },
+        {
+          "deeplink": "restaurant/11",
+          "name": "Potatoes Kitchen",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/Accordionp-potatoes.jpg",
+          "description": "Chinese,indian"
         }
       ]
     }
