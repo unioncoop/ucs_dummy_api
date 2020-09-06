@@ -3,7 +3,7 @@
   "message": "",
   "data": [
     {
-      "type": 12,
+      "type": 1,
       "widgetData": [
         {
           
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "type": 1,
+      "type": 2,
       "widgetData": [
         {
           "name": "Free Delivery on order above 300 AED",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "type": 2,
+      "type": 3,
       "widgetData": [
         {
           "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "type": 3,
+      "type": 4,
       "widgetData": [
         {
           "api": "https://ucsmartapp.unioncoop.ae/news"
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "type": 4,
+      "type": 5,
       "title": "Services",
       "widgetData": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "type": 5,
+      "type": 6,
       "widgetData": [
         {
           "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg",
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "type": 6,
+      "type": 7,
       "widgetData": [
         {
           "deeplink": "items/2767",
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "type": 7,
+      "type": 8,
       "widgetData": [
         {
           "name": "Top Products",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "type": 8,
+      "type": 9,
       "title": "Mall Store",
       "widgetData": [
         {
@@ -199,21 +199,18 @@
       ]
     },
     {
-      "type": 9,
+      "type": 10,
       "title": "Grocery",
       "viewMore": "grocery",
       "widgetData": [
         {
           "pro_id": "25388",
           "name": "Fresh Tilapia Fish, Per Kg, Egypt",
-          "avail_qty": 0,
+          "avail_qty": 5,
           "sku": "26823",
           "normal_price": "18.00",
           "special_price": "0.00",
           "tamayaz_price": "0.00",
-          "packing": "100ml",
-          "is_manage_stock": false,
-          "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
           "is_favourite": "0",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/f\/r\/fresh-tilapia-fish_front.jpg",
           "udstr4": "W",
@@ -231,8 +228,6 @@
           "normal_price": "52.00",
           "special_price": "0.00",
           "tamayaz_price": "0.00",
-          "packing": "1x1",
-          "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
           "is_favourite": "0",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/h\/shrimps_20-30_fresh_per_kg_pakistan.jpg",
           "udstr4": "W",
@@ -245,13 +240,11 @@
         {
           "pro_id": "63334",
           "name": "Fresh Squid 20-30, Per Kg, Pakistan",
-          "avail_qty": 0,
+          "avail_qty": 10,
           "sku": "26968",
           "normal_price": "31.00",
           "special_price": "0.00",
           "tamayaz_price": "0.00",
-          "packing": "1KG",
-          "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
           "is_favourite": "0",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/f\/r\/fresh-squid-20-30_front.jpg",
           "udstr4": "W",
@@ -267,9 +260,7 @@
           "normal_price": "17.00",
           "special_price": "0.00",
           "tamayaz_price": "0.00",
-          "packing": "1x1ml",
           "is_manage_stock": false,
-          "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
           "is_favourite": "0",
           "is_grocery_product": "1",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/b\/i\/bia-h-small-fish_front.jpg",
@@ -286,8 +277,6 @@
           "normal_price": "86.00",
           "special_price": "0.00",
           "tamayaz_price": "0.00",
-          "packing": null,
-          "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
           "is_favourite": "0",
           "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/a\/salmon-fillet-portion-with-skin_front.jpg",
           "udstr4": "W",
@@ -346,7 +335,7 @@
       ]
     },
     {
-      "type": 13,
+      "type": 11,
       "widgetData": [
         {
           "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg",
@@ -355,7 +344,7 @@
       ]
     },
     {
-      "type": 10,
+      "type": 12,
       "title": "Recipes",
       "viewMore": "",
       "widgetData": [
@@ -532,7 +521,7 @@
       ]
     },
     {
-      "type": 11,
+      "type": 13,
       "title": "Restaurant",
       "viewMore": "",
       "widgetData": [
