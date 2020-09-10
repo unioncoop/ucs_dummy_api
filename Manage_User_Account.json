@@ -1,0 +1,80 @@
+{
+  "code": "1",
+  "message": "",
+  "data": {
+    "topMoreData": [
+      {
+        "deeplink": "my_order",
+        "name": "My Order",
+        "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg"
+      },
+      {
+        "deeplink": "smart_reciept",
+        "name": "Smart Reciept",
+        "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+      },
+      {
+        "deeplink": "shopping_list",
+        "name": "Shopping List",
+        "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+      },
+      {
+        "deeplink": "favourite",
+        "name": "Favourite",
+        "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+      }
+    ],
+    "otherData": [
+      {
+        "title": "Title",
+        "option": [
+          {
+            "deeplink": "home",
+            "name": "My Profile",
+            "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg"
+          },
+          {
+            "deeplink": "shopping_list",
+            "name": "Shopping List",
+            "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+          },
+          {
+            "deeplink": "order_history",
+            "name": "Order History",
+            "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+          }
+        ]
+      },
+      {
+        "title": "Title",
+        "option": [
+          {
+            "deeplink": "address_list",
+            "name": "Address List",
+            "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg"
+          },
+          {
+            "deeplink": "setting",
+            "name": "Setting",
+            "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+          },
+          {
+            "deeplink": "my_card",
+            "name": "My Card",
+            "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+          },
+          {
+            "deeplink": "policy",
+            "name": "Policy",
+            "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+          },
+          {
+            "deeplink": "term_condition",
+            "name": "Term & Condition",
+            "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+          }
+        ]
+      }
+    ]
+  }
+}
