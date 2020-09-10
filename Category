@@ -1,0 +1,54 @@
+{
+  "code": "1",
+  "message": "",
+  "data": [
+    {
+      "deeplink": "items/2767",
+      "name": "Baby Care",
+      "colorcode":"fafafa",
+      "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
+    },
+    {
+      "deeplink": "items/2770",
+      "name": "Bread & Bakery",
+       "colorcode":"fafafa",
+      "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg"
+    },
+    {
+      "deeplink": "items/2765",
+      "name": "Breakfast, Cereal & Pasta",
+       "colorcode":"fafafa",
+      "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg"
+    },
+    {
+      "deeplink": "items/2771",
+      "name": "Butchery & Seafood",
+       "colorcode":"fafafa",
+      "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg"
+    },
+    {
+      "deeplink": "items/2768",
+      "name": "Cleaning & Homecare",
+       "colorcode":"fafafa",
+      "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg"
+    },
+    {
+      "deeplink": "items/2783",
+      "name": "Cooking and Baking",
+       "colorcode":"fafafa",
+      "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg"
+    },
+    {
+      "deeplink": "items/2765",
+      "name": "Cereal",
+       "colorcode":"fafafa",
+      "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg"
+    },
+    {
+      "deeplink": "items/2765",
+      "name": "Pasta",
+       "colorcode":"fafafa",
+      "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg"
+    }
+  ]
+}
