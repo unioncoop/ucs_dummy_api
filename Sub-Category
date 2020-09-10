@@ -1,0 +1,70 @@
+{
+  "code": "1",
+  "message": "",
+  "data": {
+    "id": "5464",
+    "subcategories": [
+      {
+        "deeplink": "items/2767",
+        "name": "Baby Care",
+        "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg",
+        "color_code": "F34604"
+      },
+      {
+        "deeplink": "items/2770",
+        "name": "Bread & Bakery",
+        "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg",
+        "color_code": "FAE953"
+      },
+      {
+        "deeplink": "items/2765",
+        "name": "Breakfast, Cereal & Pasta",
+        "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg",
+        "color_code": "F34604"
+      },
+      {
+        "deeplink": "items/2771",
+        "name": "Butchery & Seafood",
+        "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg",
+        "color_code": "FAE953"
+      },
+      {
+        "deeplink": "items/2768",
+        "name": "Cleaning & Homecare",
+        "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg",
+        "color_code": "2376BC"
+      },
+      {
+        "deeplink": "items/2783",
+        "name": "Cooking and Baking",
+        "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg",
+        "color_code": "F34604"
+      },
+      {
+        "deeplink": "items/2765",
+        "name": "Cereal",
+        "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg",
+        "color_code": "F78422"
+      },
+      {
+        "deeplink": "items/2765",
+        "name": "Pasta",
+        "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg",
+        "color_code": "F34604"
+      }
+    ],
+    "feature_products": {
+      "is_tab": true,
+      "section": [
+        {
+          "title": "Top Product",
+          "api": ""
+        },
+        {
+          "title": "Recommended",
+          "api": ""
+        }
+      ]
+    }
+  }
+}
