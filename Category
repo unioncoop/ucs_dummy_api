@@ -5,66 +5,58 @@
     {
       "deeplink": "items/2767",
       "name": "Baby Care",
-      "colorcode":"fafafa",
       "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg",
-       "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
-
+      "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg",
+      "color_code": "8fd3ff"
     },
     {
       "deeplink": "items/2770",
       "name": "Bread & Bakery",
-       "colorcode":"fafafa",
       "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg",
-             "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
-
+      "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg",
+      "color_code": "f5d374"
     },
     {
       "deeplink": "items/2765",
       "name": "Breakfast, Cereal & Pasta",
-       "colorcode":"fafafa",
       "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg",
-             "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
-
+      "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg",
+      "color_code": "a3c6e3"
     },
     {
       "deeplink": "items/2771",
       "name": "Butchery & Seafood",
-       "colorcode":"fafafa",
       "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg",
-             "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
-
+      "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg",
+      "color_code": "91d0d5"
     },
     {
       "deeplink": "items/2768",
       "name": "Cleaning & Homecare",
-       "colorcode":"fafafa",
       "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg",
-             "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
-
+      "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg",
+      "color_code": "f87984"
     },
     {
       "deeplink": "items/2783",
       "name": "Cooking and Baking",
-       "colorcode":"fafafa",
       "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg",
-             "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
-
+      "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg",
+      "color_code": "f57651"
     },
     {
       "deeplink": "items/2765",
       "name": "Cereal",
-       "colorcode":"fafafa",
       "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg",
-             "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
-
+      "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg",
+      "color_code": "f57651"
     },
     {
       "deeplink": "items/2765",
       "name": "Pasta",
-       "colorcode":"fafafa",
       "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg",
-             "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg"
-
+      "small_image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg",
+      "color_code": "91d0d5"
     }
   ]
 }
