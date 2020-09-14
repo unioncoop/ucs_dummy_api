@@ -168,15 +168,15 @@
       "widgetData": [
         {
           "name": "Top Products",
-          "api": "https://ucsmartapp.unioncoop.ae/top/products"
+          "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/top_product"
         },
         {
-          "name": "Most Populalr",
-          "api": "https://ucsmartapp.unioncoop.ae/popular/products"
+          "name": "Most Popular",
+          "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/most_popular"
         },
         {
           "name": "Recommendations",
-          "api": "https://ucsmartapp.unioncoop.ae/recommended/products"
+          "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/recommended"
         }
       ]
     },

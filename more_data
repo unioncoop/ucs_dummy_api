@@ -1,0 +1,80 @@
+{
+  "code": "1",
+  "message": "",
+  "data": {
+    "topMoreData": [
+      {
+        "deeplink": "my_order",
+        "name": "My Order",
+        "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/box.png?alt=media&token=a54318cd-eadf-400f-abbc-7c68052b3c32"
+      },
+      {
+        "deeplink": "smart_reciept",
+        "name": "Smart Reciept",
+        "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/box.png?alt=media&token=a54318cd-eadf-400f-abbc-7c68052b3c32"
+      },
+      {
+        "deeplink": "shopping_list",
+        "name": "Shopping List",
+        "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/box.png?alt=media&token=a54318cd-eadf-400f-abbc-7c68052b3c32"
+      },
+      {
+        "deeplink": "favourite",
+        "name": "Favourite",
+        "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/box.png?alt=media&token=a54318cd-eadf-400f-abbc-7c68052b3c32"
+      }
+    ],
+    "otherData": [
+      {
+        "title": "",
+        "option": [
+          {
+            "deeplink": "home",
+            "name": "My Profile",
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
+          },
+          {
+            "deeplink": "shopping_list",
+            "name": "Shopping List",
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/catg.png?alt=media&token=f06a755e-ff45-4a01-ba07-83675db0ad0a"
+          },
+          {
+            "deeplink": "order_history",
+            "name": "Order History",
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
+          }
+        ]
+      },
+      {
+        "title": "",
+        "option": [
+          {
+            "deeplink": "address_list",
+            "name": "Address List",
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
+          },
+          {
+            "deeplink": "setting",
+            "name": "Setting",
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/catg.png?alt=media&token=f06a755e-ff45-4a01-ba07-83675db0ad0a"
+          },
+          {
+            "deeplink": "my_card",
+            "name": "My Card",
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
+          },
+          {
+            "deeplink": "policy",
+            "name": "Policy",
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/catg.png?alt=media&token=f06a755e-ff45-4a01-ba07-83675db0ad0a"
+          },
+          {
+            "deeplink": "term_condition",
+            "name": "Term & Condition",
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
+          }
+        ]
+      }
+    ]
+  }
+}
