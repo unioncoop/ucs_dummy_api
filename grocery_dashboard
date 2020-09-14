@@ -98,7 +98,7 @@
       "widgetData": [
         {
           "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg",
-          "name": "Delivery",
+          "name": "Shop Online",
           "deeplink": ""
         },
         {
@@ -109,6 +109,11 @@
         {
           "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-App-Banner2--HD--16.jpg",
           "name": "Deals",
+          "deeplink": ""
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg",
+          "name": "Shop Online",
           "deeplink": ""
         }
       ]
