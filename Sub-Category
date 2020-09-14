@@ -57,11 +57,11 @@
       "is_tab": true,
       "section": [
         {
-          "title": "Top Product",
+          "name": "Top Product",
           "api": ""
         },
         {
-          "title": "Recommended",
+          "name": "Recommended",
           "api": ""
         }
       ]
