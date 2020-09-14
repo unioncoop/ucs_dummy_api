@@ -75,6 +75,21 @@
           "deeplink": "service/4",
           "name": "Promotion",
           "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+        },
+        {
+          "deeplink": "service/3",
+          "name": "Recipes",
+          "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+        },
+        {
+          "deeplink": "service/3",
+          "name": "Recipes",
+          "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+        },
+        {
+          "deeplink": "service/3",
+          "name": "Recipes",
+          "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
         }
       ]
     },
