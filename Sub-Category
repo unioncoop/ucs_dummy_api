@@ -58,11 +58,15 @@
       "widgetData": [
         {
          "name": "Top Products",
-          "api": "https://raw.githubusercontent.com/mohdfarhanakram/home_json/master/most_popular"
+          "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/top_product"
         },
         {
           "name": "Most Popular",
-          "api": "https://raw.githubusercontent.com/mohdfarhanakram/home_json/master/most_popular"
+          "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/most_popular"
+        },
+        {
+          "name": "Recommended",
+          "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/recommended"
         }
       ]
     }
