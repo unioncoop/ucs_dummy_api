@@ -4,7 +4,7 @@
   "data": {
     "cart_shipping": {
       "shipping_type": "home_delivery",
-      "address": {
+      "delivery_address": {
         "firstname": "Mohd",
         "lastname": "Farhan",
         "address1": "hhjjhhh",
@@ -21,7 +21,7 @@
         "is_default_billing": 0,
         "area_name": "AL Muhaisnah 3"
       },
-      "branch": {
+      "branch_address": {
         "area_id": "60",
         "branch_code": "14",
         "branch_name": "Al Aweer",
