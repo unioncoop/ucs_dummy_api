@@ -48,8 +48,6 @@
         "special_price": "0.00",
         "tamayaz_price": "0.00",
         "packing": null,
-        "max_sale_qty": 10000,
-        "min_sale_qty": 1,
         "short_description": "All prices are including VAT",
         "is_favourite": "0",
         "is_grocery_product": "1",
@@ -82,8 +80,6 @@
         "special_price": "0.00",
         "tamayaz_price": "0.00",
         "packing": "2 Liter",
-        "max_sale_qty": 10000,
-        "min_sale_qty": 1,
         "short_description": "All prices are including VAT",
         "is_favourite": "0",
         "is_grocery_product": "1",
@@ -110,6 +106,6 @@
       "shipping": "15.00",
       "min_order_amount": "100"
     },
-    "is_related_product_availbale": "true"
+    "related_product_url": "end point url"
   }
 }
