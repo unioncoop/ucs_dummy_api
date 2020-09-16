@@ -2,6 +2,36 @@
   "code": "1",
   "message": "",
   "data": {
+    "cart_shipping": {
+      "shipping_type": "home_delivery",
+      "address": {
+        "firstname": "Mohd",
+        "lastname": "Farhan",
+        "address1": "hhjjhhh",
+        "address2": null,
+        "city_id": "3",
+        "city_name": "Dubai",
+        "mobile": "561903920",
+        "area_id": "360",
+        "street_name": "sh",
+        "makani_no": null,
+        "building": "218484",
+        "address_id": "61701",
+        "is_default_shipping": 0,
+        "is_default_billing": 0,
+        "area_name": "AL Muhaisnah 3"
+      },
+      "branch": {
+        "area_id": "60",
+        "branch_code": "14",
+        "branch_name": "Al Aweer",
+        "address": "Union Coop Aweer, Ras al Khor",
+        "store_location_link": "https:\/\/goo.gl\/maps\/hzEvBkQP6xrAQH2u9",
+        "latitude": "25.292010",
+        "longitude": "51.472210",
+        "city_id": "3"
+      }
+    },
     "cart_items": [
       {
         "pro_id": "15170",
@@ -71,16 +101,15 @@
         "unit_price": "10.00",
         "item_delivery_time": ""
       }
-    ]
-  },
-  "payment_summary": {
-    "items": 5,
-    "sub_total": "101.19",
-    "grand_total": "121.25",
-    "tax": "5.77",
-    "dis_amt": "0.00",
-    "shipping": "15.00",
-    "min_order_amount": "100",
-    "shipping_type": "home_delivery"
+    ],
+    "payment_summary": {
+      "sub_total": "101.19",
+      "grand_total": "121.25",
+      "tax": "5.77",
+      "dis_amt": "0.00",
+      "shipping": "15.00",
+      "min_order_amount": "100"
+    },
+    "is_related_product_availbale": "true"
   }
 }
