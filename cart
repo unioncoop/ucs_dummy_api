@@ -72,5 +72,15 @@
         "item_delivery_time": ""
       }
     ]
+  },
+  "payment_summary": {
+    "items": 5,
+    "sub_total": "101.19",
+    "grand_total": "121.25",
+    "tax": "5.77",
+    "dis_amt": "0.00",
+    "shipping": "15.00",
+    "min_order_amount": "100",
+    "shipping_type": "home_delivery"
   }
 }
