@@ -59,6 +59,7 @@
     {
       "type": 5,
       "title": "Services",
+      "viewMore": "service", 
       "widgetData": [
         {
           "deeplink": "service/1",
