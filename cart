@@ -170,7 +170,20 @@
       "shipping": "15.00",
       "min_order_amount": "100"
     },
-    "related_product_url": "end point URL",
-    "cart_message": "AED 20 worth of eligible to get Free Delivery"
+    "cart_message": "AED 20 worth of eligible to get Free Delivery AED 20 worth of eligible to get Free Delivery AED 20 worth of eligible to get Free Delivery",
+    "cart_feature_product": [
+      {
+        "name": "Top Products",
+        "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/top_product"
+      },
+      {
+        "name": "Most Popular",
+        "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/most_popular"
+      },
+      {
+        "name": "Recommended",
+        "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/recommended"
+      }
+    ]
   }
 }
