@@ -97,7 +97,7 @@
         "unit_price": "10.00",
         "item_delivery_time": ""
       },
-       {
+      {
         "pro_id": "15170",
         "item_id": "1753734",
         "item_number": "83046",
@@ -170,6 +170,7 @@
       "shipping": "15.00",
       "min_order_amount": "100"
     },
-    "related_product_url": "end point url"
+    "related_product_url": "end point URL",
+    "cart_message": "AED 20 worth of eligible to get Free Delivery AED 20 worth of eligible to get Free Delivery AED 20 worth of eligible to get Free Delivery"
   }
 }
