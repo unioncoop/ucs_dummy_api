@@ -1,0 +1,28 @@
+{
+  "type": "keyword or id or suggestion",
+  "value": "milk",
+  "page": "1",
+  "sort_by": "price",
+  "sort_type": "asc",
+  "price_max": "87",
+  "price_min": "86",
+  "filters": [
+    {
+      "attribute_code": "manufacturer",
+      "options": [
+        {
+          "active": false,
+          "filter_id": "1381",
+          "lable": "Abbott",
+          "value": "abbott"
+        },
+        {
+          "active": false,
+          "filter_id": "2170",
+          "lable": "Al-marai",
+          "value": "al-marai"
+        }
+      ]
+    }
+  ]
+}
