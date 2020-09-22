@@ -1,0 +1,41 @@
+{
+  "code": "1",
+  "message": "",
+  "data": {
+    "order_detail": {
+      "order_id": "L3BkMXRzaStUakYxdW1ZQkIzU0xzZz09",
+      "increment_id": "100069954",
+      "status": "Pending",
+      "date": "22-09-2020 10:21:08 AM",
+      "shipping_address": "Test tester,villa,dibai,1e23,Al Aweer,Dubai,United Arab Emirates,T: 545632576",
+      "shipping_method": "Shipping Cost",
+      "shipping_type": "home_delivery"
+    },
+    "payment_summary": {
+      "payment_method": "Cash On Delivery",
+      "sub_total": "834.24",
+      "shipping": "19.05",
+      "dis_amt": "0.00",
+      "tax": "42.82",
+      "grand_total": "896.11"
+    },
+    "order_items": [
+      {
+        "pro_id": "7184",
+        "name": "Nestle Cerelac Infant Cereal Wheat - 400g Tin, 12265529",
+        "normal_price": "11.09",
+        "special_price": "0.00",
+        "tamayaz_price": "0.00",
+        "packing": "1",
+        "is_manage_stock": false,
+        "short_description": "All prices are including VAT",
+        "is_favourite": "0",
+        "is_grocery_product": "1",
+        "image": "https:\/\/uat.unioncoop.ae\/media\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/6\/2\/6294003557348-11.jpg",
+        "order_item_id": "938262",
+        "estimated_delivery_days": "1",
+        "qty_ordered": 79
+      }
+    ]
+  }
+}
