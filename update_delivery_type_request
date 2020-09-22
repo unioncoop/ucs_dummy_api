@@ -1,0 +1,14 @@
+//home_delivery
+{
+  "area_id": "340",
+  "branch_code": "",
+  "shipping_type": "home_delivery"
+}
+
+
+//clickandcollect
+{
+  "area_id": "60",
+  "branch_code": "14",
+  "shipping_type": "clickandcollect"
+}
