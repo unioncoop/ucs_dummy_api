@@ -2,7 +2,7 @@
   "code": "1",
   "message": "Suceess message",
   "data": {
-    "total_reviews": 80,
+    "total_page": 80,
     "page": "1",
     "product_id": "345",
     "reviews": [
