@@ -1,0 +1,26 @@
+{
+  "code": "1",
+  "message": "Success",
+  "data": [
+    {
+      "area_id": "60",
+      "branch_code": "14",
+      "branch_name": "Al Aweer",
+      "address": "Union Coop Aweer, Ras al Khor",
+      "store_location_link": "https:\/\/goo.gl\/maps\/hzEvBkQP6xrAQH2u9",
+      "latitude": "25.292010",
+      "longitude": "51.472210",
+      "city_id": "3"
+    },
+    {
+      "area_id": "100",
+      "branch_code": "16",
+      "branch_name": "Mirdiff",
+      "address": "Union Coop Etihad Mall",
+      "store_location_link": "https:\/\/goo.gl\/maps\/vAyB1vHAssWcf5256",
+      "latitude": "24.710630",
+      "longitude": "46.701260",
+      "city_id": "3"
+    }
+  ]
+}
