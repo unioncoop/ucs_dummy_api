@@ -1,0 +1,10 @@
+{
+  "code": "1",
+  "message": "",
+  "data": {
+    "order_number": "100069954",
+    "html": "<script type='text\/javascript'>location.href = 'https:\/\/paypage.sandbox.ngenius-payments.com\/?code=72a37043a070746c';<\/script>",
+    "successUrl": "",
+    "failureUrl": ""
+  }
+}
