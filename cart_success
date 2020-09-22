@@ -1,0 +1,8 @@
+{
+  "code": "1",
+  "message": "Item is added in your cart or removed from cart etc. ",
+  "data": {
+    "cart_count": "5",
+    
+  }
+}
