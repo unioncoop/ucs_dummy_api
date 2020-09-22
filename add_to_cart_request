@@ -1,5 +1,6 @@
 {
   "id": "456",
   "quantity": "2",
-  "single_unit": "100 gm"
+  "single_unit": "100 gm",
+  "action" : "0/1/2"
 }
