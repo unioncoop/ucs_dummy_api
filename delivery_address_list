@@ -1,0 +1,57 @@
+{
+  "code": "1",
+  "message": "",
+  "data": [
+    {
+      "firstname": "Mohd ",
+      "lastname": "Farhan",
+      "address1": "Dubai Silicon Oasis",
+      "address2": null,
+      "city_id": "3",
+      "city_name": "Dubai",
+      "mobile": "561903920",
+      "area_id": "340",
+      "street_name": "Zaal",
+      "makani_no": null,
+      "building": "402 Silicon Gate 3",
+      "address_id": "42242",
+      "is_default_shipping": 0,
+      "is_default_billing": 0,
+      "area_name": "Al Baraha"
+    },
+    {
+      "firstname": "Test",
+      "lastname": "tester",
+      "address1": "dibai",
+      "address2": null,
+      "city_id": "3",
+      "city_name": "Dubai",
+      "mobile": "545632576",
+      "area_id": "60",
+      "street_name": "1e23",
+      "makani_no": null,
+      "building": "villa",
+      "address_id": "61700",
+      "is_default_shipping": 1,
+      "is_default_billing": 1,
+      "area_name": "Al Aweer"
+    },
+    {
+      "firstname": "Mohd",
+      "lastname": "Farhan",
+      "address1": "hhjjhhh",
+      "address2": null,
+      "city_id": "3",
+      "city_name": "Dubai",
+      "mobile": "561903920",
+      "area_id": "360",
+      "street_name": "sh",
+      "makani_no": null,
+      "building": "218484",
+      "address_id": "61701",
+      "is_default_shipping": 0,
+      "is_default_billing": 0,
+      "area_name": "AL Muhaisnah 3"
+    }
+  ]
+}
