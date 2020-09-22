@@ -1,0 +1,72 @@
+{
+  "code": "1",
+  "message": "",
+  "data": {
+    "isTimeSlotRequired": "1",
+    "holding_amount": "0.00",
+    "payment_info": [
+      {
+        "payment_label": "Online Credit\/Debit Card",
+        "payment_code": "ngeniusonline"
+      },
+      {
+        "payment_label": "Cash On Delivery",
+        "payment_code": "cashondelivery"
+      },
+      {
+        "payment_label": "Credit\/Debit Card on Delivery",
+        "payment_code": "payondelivery"
+      }
+    ],
+    "time_slot_details": [
+      {
+        "time_slot": [
+          {
+            "start_time": "10:00 am",
+            "end_time": "02:00 pm"
+          },
+          {
+            "start_time": "02:00 pm",
+            "end_time": "06:00 pm"
+          },
+          {
+            "start_time": "06:00 pm",
+            "end_time": "10:00 pm"
+          }
+        ],
+        "date": "27-09-2020"
+      },
+      {
+        "time_slot": [
+          {
+            "start_time": "10:00 am",
+            "end_time": "02:00 pm"
+          },
+          {
+            "start_time": "02:00 pm",
+            "end_time": "06:00 pm"
+          },
+          {
+            "start_time": "06:00 pm",
+            "end_time": "10:00 pm"
+          }
+        ],
+        "date": "27-09-2020"
+      }
+    ],
+    "pro_replace_option": [
+      {
+        "lable": "Allow Union Coop to offer close alternatives.",
+        "value": "replace_alternatives"
+      },
+      {
+        "lable": "Remove out of stock items from the order.",
+        "value": "remove_out_of_stock"
+      },
+      {
+        "lable": "Call me before making any changes to the order.",
+        "value": "call_customer"
+      }
+    ]
+  }
+}
