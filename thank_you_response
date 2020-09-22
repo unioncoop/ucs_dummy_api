@@ -1,0 +1,21 @@
+{
+  "code": "1",
+  "message": "Order Placed Successfully",
+  "data": {
+    "customer_name": "Mohd  Farhan",
+    "order_date": "Sep 22, 2020 10:21:08 AM",
+    "order_number": "100069954",
+    "grand_total": 896.11,
+    "payment_type": "Cash on Delivery",
+    "shipping_address": "Test tester, 1e23 villa dibai, Al Aweer Dubai, , United Arab Emirates, T: 545632576,",
+    "items": [
+      {
+        "pro_id": "10617",
+        "name": "Castania Mixed Super Extra Nuts - 450g",
+        "image": "https:\/\/uat.unioncoop.ae\/media\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/placeholder\/default\/union-coop-placeholder-image-265X265.png",
+        "quantity": "5",
+        "price": "20"
+      }
+    ]
+  }
+}
