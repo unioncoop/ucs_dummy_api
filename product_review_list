@@ -1,0 +1,40 @@
+{
+  "code": "1",
+  "message": "Suceess message",
+  "data": {
+    "product_info": {
+      "pro_id": "7188",
+      "name": "Nestle Cerelac Infant Cereal Baby Food Rice - 400g Tin, 12265620",
+      "short_description": "All prices are including VAT",
+      "image": "https:\/\/uat.unioncoop.ae\/media\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/6\/2\/6294003557324-11.jpg",
+      "description": "Nestle Cerelac From 6 Months, Rice With Milk Infant Cereal Tin 400g",
+      
+    },
+    "reviews": [
+      {
+        "comment": "",
+        "reason_id": "2",
+        "label_ar": "Over Priced",
+        "label_en": "Over Priced",
+        "rating_star": 4,
+        "type": "product"
+      },
+      {
+        "comment": "Not good Product",
+        "reason_id": "3",
+        "label_ar": "Over Priced",
+        "label_en": "Over Priced",
+        "rating_star": 4,
+        "type": "product"
+      },
+      {
+        "comment": "",
+        "reason_id": "2",
+        "label_ar": "Over Priced",
+        "label_en": "Over Priced",
+        "rating_star": 4,
+        "type": "product"
+      }
+    ]
+  }
+}
