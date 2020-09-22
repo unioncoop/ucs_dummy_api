@@ -1,0 +1,17 @@
+{
+      "firstname": "Mohd ",
+      "lastname": "Farhan",
+      "address1": "Dubai Silicon Oasis",
+      "address2": null,
+      "city_id": "3",
+      "city_name": "Dubai",
+      "mobile": "561903920",
+      "area_id": "340",
+      "street_name": "Zaal",
+      "makani_no": null,
+      "building": "402 Silicon Gate 3",
+      "address_id": "42242",
+      "is_default_shipping": 0,
+      "is_default_billing": 0,
+      "area_name": "Al Baraha"
+    }
