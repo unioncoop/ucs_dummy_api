@@ -1,5 +1,5 @@
 {
-  "type": "keyword or id or suggestion",
+  "type": "keyword or category_id or tag_id",
   "value": "milk",
   "page": "1",
   "sort_by": "price",
