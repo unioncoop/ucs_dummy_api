@@ -4,10 +4,7 @@
   "data": {
     "type": "keyword or category_id or tag_id",
     "value": "12",
-    "page": "1",
     "total_page": "10",
-    "sort_by": "price",
-    "sort_type": "asc",
     "price_max": "87",
     "price_min": "86",
     "list": [
