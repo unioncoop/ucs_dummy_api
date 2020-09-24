@@ -1,42 +1,39 @@
 {
   "code": "1",
-  "message": "Suceess message",
+  "error_message": "Success",
   "data": {
-    "pro_id": "7188",
-    "name": "Nestle Cerelac Infant Cereal Baby Food Rice - 400g Tin, 12265620",
-    "avail_qty": 0,
-    "sku": "6294003557324",
-    "vendor_id": 0,
-    "vendor_name": "By Unioncoop",
-    "normal_price": "21.75",
-    "special_price": "0.00",
-    "tamayaz_price": "0.00",
-    "packing": "1",
-    "max_sale_qty": 10000,
-    "min_sale_qty": 1,
-    "is_manage_stock": false,
-    "short_description": "All prices are including VAT",
-    "is_favourite": "0",
-    "is_grocery_product": "1",
-    "image": "https:\/\/uat.unioncoop.ae\/media\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/6\/2\/6294003557324-11.jpg",
-    "udstr4": "NW",
-    "selling_unit": null,
-    "branch_wise_inventory": 113,
-    "available_stock": true,
-    "is_custom_option_available": false,
-    "custom_option": [
-      
-    ],
-    "custom_id": "",
-    "label": "",
-    "images": [
-      "https:\/\/uat.unioncoop.ae\/media\/catalog\/product\/cache\/1\/image\/650x400\/9df78eab33525d08d6e5fb8d27136e95\/6\/2\/6294003557324-41.jpg",
-      "https:\/\/uat.unioncoop.ae\/media\/catalog\/product\/cache\/1\/image\/650x400\/9df78eab33525d08d6e5fb8d27136e95\/6\/2\/6294003557324-11.jpg",
-      "https:\/\/uat.unioncoop.ae\/media\/catalog\/product\/cache\/1\/image\/650x400\/9df78eab33525d08d6e5fb8d27136e95\/6\/2\/6294003557324-21.jpg",
-      "https:\/\/uat.unioncoop.ae\/media\/catalog\/product\/cache\/1\/image\/650x400\/9df78eab33525d08d6e5fb8d27136e95\/6\/2\/6294003557324-51.jpg"
-    ],
-    "avg_rating": 0,
-    "description": "Nestle Cerelac From 6 Months, Rice With Milk Infant Cereal Tin 400g",
-    "vendor_details": null
+    "product_detail": {
+      "pro_id": "1",
+      "name": "Braun Face SE810 Facial Epilator & Cleanser",
+      "sku": "4210201106593",
+      "packing": null,
+      "short_description": "All prices are including VAT",
+      "is_grocery_product": "0",
+      "qty": 2,
+      "available_stock": true,
+      "normal_price": "AED 249.00",
+      "special_price": "AED 0.00",
+      "tamayaz_price": "AED 0.00",
+      "is_favourite": false,
+      "selling_unit": "",
+      "udstr4": "NW",
+      "image": "https://uat.unioncoop.ae/media/catalog/product/cache/1/thumbnail/450x450/9df78eab33525d08d6e5fb8d27136e95/0/1/01_4210201106593_Braun_Face_SE810_01.png",
+      "is_custom_option_available": false,
+      "custom_option": [
+        
+      ],
+      "custom_id": "",
+      "label": "",
+      "images": [
+        "https://uat.unioncoop.ae/media/catalog/product/cache/1/image/650x400/9df78eab33525d08d6e5fb8d27136e95/0/1/01_4210201106593_Braun_Face_SE810_01.png"
+      ],
+      "avg_rating": 0,
+      "description": "<p class=\"MsoNormal\">\"Treat your face to flawless radiance: the world's\r\nfirst, Braun Face SE810 Facial Epilator &amp; Cleanser lets you enjoy two\r\ntreatments with one device – simply switch the attachments.<span style=\"line-height: 1.42857;\">Easy to use, and boasting proven results, Braun Face allows\r\nyou to precisely remove facial hair by the root with the facial epilator plus\r\ncleanse skin pore deep with the facial brush. Your complexion can look visibly\r\nsmooth, clear and fresh at the flick of a switch. Elegant yet highly practical,\r\nBraun Face is designed to fit seamlessly into your life. With its protective\r\ncap, the facial epilator is so discrete you can take it with you anywhere,\r\nanytime. \" World’s\r\nfirst facial epilator and cleansing brush system, Facial epilator: Sleek and compact design for precise\r\nepilation. 10 micro-openings catch even the finest hairs (0.02mm) With 200 plucking motions per second, the\r\nfacial epilator is much more thorough and considerably faster than manual\r\ntweezers, and can remove hair 4x shorter than wax can catch&nbsp;&nbsp;&nbsp;&nbsp; Braun Facial Cleanser with\r\nmicro-oscillations works 6x better than a manual wash and cleanses your skin\r\npore deep, so it can better absorb your favourite cream or serum 100% waterproof, you can make facial\r\ncleansing a natural part of your shower routine Braun\r\nFace has been tested with dermatologists and is suitable for daily use, even on\r\nsensitive skin&nbsp;&nbsp; Absolute precision at the\r\ntouch of a button ,Treat your face\r\nto flawless radiance</span></p><p class=\"MsoNormal\"><o:p></o:p></p>"
+    },
+    "related_products": [
+      {
+        "api": "mobiledashboard/catalog/relatedproducts"
+      }
+    ]
   }
 }
