@@ -4,7 +4,12 @@
   "data": {
     "type": "keyword or category_id or tag_id",
     "value": "12",
+    "page": "1",
     "total_page": "10",
+    "sort_by": "price",
+    "sort_type": "asc",
+    "price_max": "87",
+    "price_min": "86",
     "list": [
       {
         "pro_id": "10617",
@@ -585,6 +590,395 @@
         ],
         "custom_id": "",
         "label": ""
+      }
+    ],
+    "sorting": [
+      {
+        "name": "Relevance",
+        "sort_by": "relevance",
+        "sort_type": "desc"
+      },
+      {
+        "name": "Price : Low to High",
+        "sort_by": "price",
+        "sort_type": "asc"
+      },
+      {
+        "name": "Price : High to Low",
+        "sort_by": "price",
+        "sort_type": "desc"
+      },
+      {
+        "name": "Product Name (ascending)",
+        "sort_by": "name",
+        "sort_type": "asc"
+      },
+      {
+        "name": "Product Name (descending)",
+        "sort_by": "name",
+        "sort_type": "desc"
+      }
+    ],
+    "filters": [
+      {
+        "attribute_code": "manufacturer",
+        "attribute_label": "Brand",
+        "options": [
+          {
+            "filter_id": "586",
+            "lable": "Al Rashaka",
+            "value": "al-rashaka",
+            "active": false
+          },
+          {
+            "filter_id": "611",
+            "lable": "Al Rawabi",
+            "value": "al-rawabi",
+            "active": false
+          },
+          {
+            "filter_id": "975",
+            "lable": "Al Safi",
+            "value": "al-safi",
+            "active": false
+          },
+          {
+            "filter_id": "612",
+            "lable": "Almarai",
+            "value": "almarai",
+            "active": false
+          },
+          {
+            "filter_id": "993",
+            "lable": "Alpro",
+            "value": "alpro",
+            "active": false
+          },
+          {
+            "filter_id": "986",
+            "lable": "American Garden",
+            "value": "american-garden",
+            "active": false
+          },
+          {
+            "filter_id": "619",
+            "lable": "Aptamil",
+            "value": "aptamil",
+            "active": false
+          },
+          {
+            "filter_id": "1061",
+            "lable": "Aquafresh",
+            "value": "aquafresh",
+            "active": false
+          },
+          {
+            "filter_id": "577",
+            "lable": "Arla",
+            "value": "arla",
+            "active": false
+          },
+          {
+            "filter_id": "642",
+            "lable": "Bahlsen",
+            "value": "bahlsen",
+            "active": false
+          },
+          {
+            "filter_id": "1203",
+            "lable": "Balade ",
+            "value": "balade",
+            "active": false
+          },
+          {
+            "filter_id": "618",
+            "lable": "Bebelac",
+            "value": "bebelac",
+            "active": false
+          },
+          {
+            "filter_id": "966",
+            "lable": "Betty Crocker",
+            "value": "betty-crocker",
+            "active": false
+          },
+          {
+            "filter_id": "726",
+            "lable": "Blemil Plus",
+            "value": "blemil-plus",
+            "active": false
+          },
+          {
+            "filter_id": "744",
+            "lable": "Britannia",
+            "value": "britannia",
+            "active": false
+          },
+          {
+            "filter_id": "1421",
+            "lable": "Campina",
+            "value": "campina",
+            "active": false
+          },
+          {
+            "filter_id": "609",
+            "lable": "Carnation",
+            "value": "carnation",
+            "active": false
+          },
+          {
+            "filter_id": "1390",
+            "lable": "Chocolates Sole",
+            "value": "chocolates-sole",
+            "active": false
+          },
+          {
+            "filter_id": "699",
+            "lable": "Co-op",
+            "value": "co-op",
+            "active": false
+          },
+          {
+            "filter_id": "1246",
+            "lable": "Daim",
+            "value": "daim",
+            "active": false
+          },
+          {
+            "filter_id": "1231",
+            "lable": "Danao",
+            "value": "danao",
+            "active": false
+          },
+          {
+            "filter_id": "940",
+            "lable": "Galaxy",
+            "value": "galaxy",
+            "active": false
+          },
+          {
+            "filter_id": "1426",
+            "lable": "Hammoudeh",
+            "value": "hammoudeh",
+            "active": false
+          },
+          {
+            "filter_id": "1219",
+            "lable": "Herbal Essence",
+            "value": "herbal-essence",
+            "active": false
+          },
+          {
+            "filter_id": "1265",
+            "lable": "Illuma",
+            "value": "illuma",
+            "active": false
+          },
+          {
+            "filter_id": "568",
+            "lable": "Kitkat",
+            "value": "kitkat",
+            "active": false
+          },
+          {
+            "filter_id": "923",
+            "lable": "Lacnor",
+            "value": "lacnor",
+            "active": false
+          },
+          {
+            "filter_id": "602",
+            "lable": "Lindt",
+            "value": "lindt",
+            "active": false
+          },
+          {
+            "filter_id": "1263",
+            "lable": "Lion",
+            "value": "lion",
+            "active": false
+          },
+          {
+            "filter_id": "724",
+            "lable": "Lobello",
+            "value": "lobello",
+            "active": false
+          },
+          {
+            "filter_id": "1116",
+            "lable": "M & M",
+            "value": "m-m",
+            "active": false
+          },
+          {
+            "filter_id": "559",
+            "lable": "Mackintosh",
+            "value": "mackintosh",
+            "active": false
+          },
+          {
+            "filter_id": "571",
+            "lable": "Maggi",
+            "value": "maggi",
+            "active": false
+          },
+          {
+            "filter_id": "921",
+            "lable": "Mariogeno",
+            "value": "mariogeno",
+            "active": false
+          },
+          {
+            "filter_id": "918",
+            "lable": "Mondelez",
+            "value": "mondelez",
+            "active": false
+          },
+          {
+            "filter_id": "1128",
+            "lable": "Nada",
+            "value": "nada",
+            "active": false
+          },
+          {
+            "filter_id": "562",
+            "lable": "Nan",
+            "value": "nan",
+            "active": false
+          },
+          {
+            "filter_id": "565",
+            "lable": "Nesquik",
+            "value": "nesquik",
+            "active": false
+          },
+          {
+            "filter_id": "572",
+            "lable": "Nestle",
+            "value": "nestle",
+            "active": false
+          },
+          {
+            "filter_id": "557",
+            "lable": "Nido",
+            "value": "nido",
+            "active": false
+          },
+          {
+            "filter_id": "911",
+            "lable": "Nutro",
+            "value": "nutro",
+            "active": false
+          },
+          {
+            "filter_id": "725",
+            "lable": "Ordesa",
+            "value": "ordesa",
+            "active": false
+          },
+          {
+            "filter_id": "1215",
+            "lable": "Pantene",
+            "value": "pantene",
+            "active": false
+          },
+          {
+            "filter_id": "1266",
+            "lable": "Promise Pe",
+            "value": "promise-pe",
+            "active": false
+          },
+          {
+            "filter_id": "569",
+            "lable": "Purina",
+            "value": "purina",
+            "active": false
+          },
+          {
+            "filter_id": "1202",
+            "lable": "Rainbow",
+            "value": "rainbow",
+            "active": false
+          },
+          {
+            "filter_id": "747",
+            "lable": "Regilait",
+            "value": "regilait",
+            "active": false
+          },
+          {
+            "filter_id": "1267",
+            "lable": "S26",
+            "value": "s26",
+            "active": false
+          },
+          {
+            "filter_id": "1079",
+            "lable": "Snickers",
+            "value": "snickers",
+            "active": false
+          },
+          {
+            "filter_id": "893",
+            "lable": "Sorbon",
+            "value": "sorbon",
+            "active": false
+          },
+          {
+            "filter_id": "1287",
+            "lable": "Soyfresh",
+            "value": "soyfresh",
+            "active": false
+          },
+          {
+            "filter_id": "795",
+            "lable": "Tiffany",
+            "value": "tiffany",
+            "active": false
+          },
+          {
+            "filter_id": "889",
+            "lable": "Touch Me",
+            "value": "touch-me",
+            "active": false
+          },
+          {
+            "filter_id": "575",
+            "lable": "Tramontina",
+            "value": "tramontina",
+            "active": false
+          },
+          {
+            "filter_id": "1093",
+            "lable": "Twix",
+            "value": "twix",
+            "active": false
+          },
+          {
+            "filter_id": "645",
+            "lable": "Union",
+            "value": "union",
+            "active": false
+          },
+          {
+            "filter_id": "567",
+            "lable": "Wyeth",
+            "value": "wyeth",
+            "active": false
+          }
+        ]
+      },
+      {
+        "attribute_code": "color",
+        "attribute_label": "Color",
+        "options": [
+          {
+            "filter_id": "458",
+            "lable": "White",
+            "value": "white",
+            "active": false
+          }
+        ]
       }
     ]
   }
