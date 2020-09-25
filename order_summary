@@ -67,6 +67,11 @@
         "lable": "Call me before making any changes to the order.",
         "value": "call_customer"
       }
+      ,
+      {
+        "lable": "Call me before making any changes to the order Call me before making any changes to the order.",
+        "value": "call_customer122"
+      }
     ]
   }
 }
