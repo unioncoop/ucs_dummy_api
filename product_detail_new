@@ -1,0 +1,49 @@
+{
+  "code": "1",
+  "error_message": "Success",
+  "data": {
+    "product_detail": {
+      "pro_id": "31627",
+      "name": "Al Rawdah Chicken Nuggets - 270 g",
+      "avail_qty": 0,
+      "sku": "6291038400267",
+      "vendor_id": 0,
+      "vendor_name": "By Unioncoop",
+      "normal_price": "8.25",
+      "special_price": "0.00",
+      "tamayaz_price": "0.00",
+      "packing": null,
+      "max_sale_qty": 10000,
+      "min_sale_qty": 1,
+      "is_manage_stock": false,
+      "short_description": "All prices are including VAT",
+      "is_favourite": "0",
+      "is_grocery_product": "1",
+      "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/a\/l\/al-rawdah-chicken-nuggets-270-g_hero.jpg",
+      "udstr4": "NW",
+      "selling_unit": null,
+      "branch_wise_inventory": 40,
+      "available_stock": true,
+      "is_custom_option_available": false,
+      "custom_option": [
+        
+      ],
+      "custom_id": "",
+      "label": "",
+      "images": [
+        "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/image\/650x400\/9df78eab33525d08d6e5fb8d27136e95\/a\/l\/al-rawdah-chicken-nuggets-270-g_hero.jpg",
+        "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/image\/650x400\/9df78eab33525d08d6e5fb8d27136e95\/a\/l\/al-rawdah-chicken-nuggets-270-g_front.jpg",
+        "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/image\/650x400\/9df78eab33525d08d6e5fb8d27136e95\/a\/l\/al-rawdah-chicken-nuggets-270-g_back.jpg",
+        "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/image\/650x400\/9df78eab33525d08d6e5fb8d27136e95\/a\/l\/al-rawdah-chicken-nuggets-270-g_ingredients.jpg"
+      ],
+      "avg_rating": 0,
+      "description": "<p>Al Rawdah Chicken Nuggets are lightly breaded and fully fry. Our tender, juicy, chicken nuggets are made with fresh meat. Chicken nuggets are made from easy ingredients and are free of chemical preservatives and fillers.<\/p>\n<b>Product Features : <\/b>\n<ul><li>Brand: Al Rawdah<\/li>\n<li>Size: 270 g<\/li>\n<li>Packaging: Box<\/li>\n<li>Details: Perfect for sharing at home, at parties and picnics<\/li>\n<li>Made with protein goodness<\/li><\/ul>",
+      "vendor_details": null
+    },
+    "related_products": [
+      {
+        "api": "mobiledashboard/catalog/relatedproducts"
+      }
+    ]
+  }
+}
