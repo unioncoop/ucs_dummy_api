@@ -5,7 +5,8 @@
     "order_detail": {
       "order_id": "L3BkMXRzaStUakYxdW1ZQkIzU0xzZz09",
       "increment_id": "100069954",
-      "status": "Pending",
+      "status": "pending",
+      "statusText": "Pending",
       "date": "22-09-2020 10:21:08 AM",
       "shipping_address": "Test tester,villa,dibai,1e23,Al Aweer,Dubai,United Arab Emirates,T: 545632576",
       "shipping_method": "Shipping Cost",
