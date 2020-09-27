@@ -11,6 +11,7 @@
         "ship_to": "Test tester,villa,dibai,1e23,Al Aweer,Dubai,United Arab Emirates,T: 545632576",
         "order_total": "896.11",
         "status": "Pending",
+        "statusText": "Pending",
         "shipping_type": "home_delivery"
       },
       {
@@ -19,7 +20,8 @@
         "date": "22-09-2020 10:14:12 AM",
         "ship_to": "Test tester,villa,dibai,1e23,Al Aweer,Dubai,United Arab Emirates,T: 545632576",
         "order_total": "896.11",
-        "status": "Payment Review",
+        "status": "payment_review",
+        "statusText": "Payment Review",
         "shipping_type": "home_delivery"
       },
       {
@@ -28,7 +30,8 @@
         "date": "16-09-2020 11:14:08 AM",
         "ship_to": "Test tester,villa,dibai,1e23,Al Aweer,Dubai,United Arab Emirates,T: 545632576",
         "order_total": "129.93",
-        "status": "n-genius Authorised",
+        "status": "n-genius-authorised",
+        "statusText": "Authorised",
         "shipping_type": "home_delivery"
       }
     ]
