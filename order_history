@@ -10,7 +10,7 @@
         "date": "22-09-2020 10:21:08 AM",
         "ship_to": "Test tester,villa,dibai,1e23,Al Aweer,Dubai,United Arab Emirates,T: 545632576",
         "order_total": "896.11",
-        "status": "Pending",
+        "status": "pending",
         "statusText": "Pending",
         "shipping_type": "home_delivery"
       },
