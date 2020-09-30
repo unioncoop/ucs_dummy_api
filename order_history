@@ -12,6 +12,8 @@
         "order_total": "896.11",
         "status": "pending",
         "statusText": "Pending",
+        "status_color": "ff0000",
+        "no_of_items": "5",
         "shipping_type": "home_delivery"
       },
       {
@@ -22,6 +24,8 @@
         "order_total": "896.11",
         "status": "payment_review",
         "statusText": "Payment Review",
+        "no_of_items": "2",
+        "status_color": "ff0000",
         "shipping_type": "home_delivery"
       },
       {
@@ -32,6 +36,8 @@
         "order_total": "129.93",
         "status": "n-genius-authorised",
         "statusText": "Authorised",
+        "status_color": "ff0000",
+        "no_of_items": "1",
         "shipping_type": "home_delivery"
       }
     ]
