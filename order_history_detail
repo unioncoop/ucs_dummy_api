@@ -14,7 +14,8 @@
       "shipping_address": "Test tester,villa,dibai,1e23,Al Aweer,Dubai,United Arab Emirates,T: 545632576",
       "shipping_method": "Shipping Cost",
       "shipping_type": "home_delivery",
-      "expected_delivery_date":"22-09-2020"
+      "delivery_date":"22-09-2020",
+      "delivery_title":"Expected delivery date"
     },
     "payment_summary": {
       "payment_method": "Cash On Delivery",
