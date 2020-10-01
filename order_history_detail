@@ -7,13 +7,13 @@
       "increment_id": "100069954",
       "status": "pending",
       "statusText": "Pending",
+      "status_color": "ff0000",
       "date": "22-09-2020 10:21:08 AM",
       "name": "Mohd Farhan",
       "mobile_no": "0561903920",
       "shipping_address": "Test tester,villa,dibai,1e23,Al Aweer,Dubai,United Arab Emirates,T: 545632576",
       "shipping_method": "Shipping Cost",
-      "shipping_type": "home_delivery",
-      "expected_delivery_date":"22/10/2020"
+      "shipping_type": "home_delivery"
     },
     "payment_summary": {
       "payment_method": "Cash On Delivery",
