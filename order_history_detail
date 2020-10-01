@@ -14,8 +14,8 @@
       "shipping_address": "Test tester,villa,dibai,1e23,Al Aweer,Dubai,United Arab Emirates,T: 545632576",
       "shipping_method": "Shipping Cost",
       "shipping_type": "home_delivery",
-      "delivery_date":"22-09-2020",
-      "delivery_title":"Expected delivery date"
+      "delivery_date": "22-09-2020",
+      "delivery_title": "Expected delivery date"
     },
     "payment_summary": {
       "payment_method": "Cash On Delivery",
@@ -29,6 +29,38 @@
       {
         "pro_id": "7184",
         "name": "Nestle Cerelac Infant Cereal Wheat - 400g Tin, 12265529",
+        "normal_price": "11.09",
+        "special_price": "0.00",
+        "tamayaz_price": "0.00",
+        "packing": "1",
+        "is_manage_stock": false,
+        "short_description": "All prices are including VAT",
+        "is_favourite": "0",
+        "is_grocery_product": "1",
+        "image": "https:\/\/uat.unioncoop.ae\/media\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/6\/2\/6294003557348-11.jpg",
+        "order_item_id": "938262",
+        "estimated_delivery_days": "1",
+        "qty_ordered": 79
+      },
+      {
+        "pro_id": "7185",
+        "name": "Baby Food - 400g Tin, 12265529",
+        "normal_price": "11.09",
+        "special_price": "0.00",
+        "tamayaz_price": "0.00",
+        "packing": "1",
+        "is_manage_stock": false,
+        "short_description": "All prices are including VAT",
+        "is_favourite": "0",
+        "is_grocery_product": "1",
+        "image": "https:\/\/uat.unioncoop.ae\/media\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/6\/2\/6294003557348-11.jpg",
+        "order_item_id": "938262",
+        "estimated_delivery_days": "1",
+        "qty_ordered": 79
+      },
+      {
+        "pro_id": "7186",
+        "name": "Apple",
         "normal_price": "11.09",
         "special_price": "0.00",
         "tamayaz_price": "0.00",
