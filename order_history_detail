@@ -12,7 +12,8 @@
       "mobile_no": "0561903920",
       "shipping_address": "Test tester,villa,dibai,1e23,Al Aweer,Dubai,United Arab Emirates,T: 545632576",
       "shipping_method": "Shipping Cost",
-      "shipping_type": "home_delivery"
+      "shipping_type": "home_delivery",
+      "expected_delivery_date":"22/10/2020"
     },
     "payment_summary": {
       "payment_method": "Cash On Delivery",
