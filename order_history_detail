@@ -19,6 +19,7 @@
     },
     "payment_summary": {
       "payment_method": "Cash On Delivery",
+      "payment_icon":"https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/mastercard.png?alt=media&token=9b38bded-7cfd-47ec-954c-df6d3a4c75a8",
       "sub_total": "834.24",
       "shipping": "19.05",
       "dis_amt": "0.00",
