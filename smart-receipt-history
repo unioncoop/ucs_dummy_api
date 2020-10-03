@@ -1,0 +1,36 @@
+{
+  "code": "1",
+  "message": "",
+  "data": {
+    "total_page": "2",
+    "list": [
+      {
+        "BranchNo": "14",
+        "BranchName": "Aweer",
+        "ReceiptNo": "S070092554",
+        "TransactionNo": "7685168",
+        "Amount": 112.09,
+        "TransIsRefund": false,
+        "SlDateTime": "Aug 19 2020 3:23PM"
+      },
+      {
+        "BranchNo": "14",
+        "BranchName": "Aweer",
+        "ReceiptNo": "S070085604",
+        "TransactionNo": "7677454",
+        "Amount": 17.20,
+        "TransIsRefund": false,
+        "SlDateTime": "Jul  2 2020 2:13PM"
+      },
+      {
+        "BranchNo": "14",
+        "BranchName": "Aweer",
+        "ReceiptNo": "S030123757",
+        "TransactionNo": "3770511",
+        "Amount": 26.00,
+        "TransIsRefund": false,
+        "SlDateTime": "Mar 16 2020 2:30PM"
+      }
+    ]
+  }
+}
