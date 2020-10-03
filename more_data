@@ -34,23 +34,13 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
           },
           {
-            "deeplink": "shopping_list",
-            "name": "Shopping List",
-            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/catg.png?alt=media&token=f06a755e-ff45-4a01-ba07-83675db0ad0a"
+            "deeplink": "address_list",
+            "name": "Address List",
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
           },
           {
             "deeplink": "order_history",
             "name": "Order History",
-            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
-          }
-        ]
-      },
-      {
-        "title": "",
-        "option": [
-          {
-            "deeplink": "address_list",
-            "name": "Address List",
             "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
           },
           {
@@ -62,26 +52,41 @@
             "deeplink": "my_card",
             "name": "My Card",
             "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
-          },
+          }
+        ]
+      },
+      {
+        "title": "",
+        "option": [
           {
             "deeplink": "our_branches",
             "name": "Our Branches",
             "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
           },
-           {
+          {
             "deeplink": "our_projects",
             "name": "Our Projects",
             "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
           },
           {
-            "deeplink": "policy",
-            "name": "Policy",
+            "deeplink": "web/https://corporate.unioncoop.ae/en/about-us/",
+            "name": "About US",
             "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/catg.png?alt=media&token=f06a755e-ff45-4a01-ba07-83675db0ad0a"
           },
           {
-            "deeplink": "term_condition",
+            "deeplink": "web/https://www.unioncoop.ae/return-policy-union-coop/",
+            "name": "Return Policy",
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/catg.png?alt=media&token=f06a755e-ff45-4a01-ba07-83675db0ad0a"
+          },
+          {
+            "deeplink": "web/https://www.unioncoop.ae/privacy-policy-union-coop/",
+            "name": "Privacy Policy",
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/catg.png?alt=media&token=f06a755e-ff45-4a01-ba07-83675db0ad0a"
+          },
+          {
+            "deeplink": "web/https://www.unioncoop.ae/term-of-use-union-coop/",
             "name": "Term & Condition",
-            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/catg.png?alt=media&token=f06a755e-ff45-4a01-ba07-83675db0ad0a"
           }
         ]
       }
