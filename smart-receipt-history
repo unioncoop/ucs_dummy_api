@@ -19,7 +19,7 @@
         "ReceiptNo": "S070085604",
         "TransactionNo": "7677454",
         "Amount": 17.20,
-        "TransIsRefund": false,
+        "TransIsRefund": true,
         "SlDateTime": "Jul  2 2020 2:13PM"
       },
       {
