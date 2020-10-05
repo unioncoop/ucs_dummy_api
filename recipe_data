@@ -1,0 +1,88 @@
+{
+  "code": 1,
+  "message": "",
+  "data": {
+    "recipe_category": [
+      {
+        "cat_id": "1",
+        "name": "beverages",
+        "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/reciepecategory\/reciepecategory\/123.jpg"
+      },
+      {
+        "cat_id": "2",
+        "name": "SNACKS & APPETIZERS",
+        "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/reciepecategory\/reciepecategory\/APPETIZER.png"
+      },
+      {
+        "cat_id": "3",
+        "name": "MAIN COURSE",
+        "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/reciepecategory\/reciepecategory\/emirati.png"
+      },
+      {
+        "cat_id": "4",
+        "name": "SWEETS",
+        "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/reciepecategory\/reciepecategory\/SWEET.png"
+      },
+      {
+        "cat_id": "5",
+        "name": "kids meal",
+        "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/reciepecategory\/reciepecategory\/kids2.png"
+      }
+    ],
+    "recipe": {
+      "title": "Recently Recipe",
+      "list": [
+        {
+          "recipe_id": "76",
+          "name": "Potato Gratin",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/789pot.jpg"
+        },
+        {
+          "recipe_id": "75",
+          "name": "EGYPTIAN MOLOKHIA",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/r7-m.jpg"
+        },
+        {
+          "recipe_id": "74",
+          "name": "Aisha Saraaya",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/7r-s.jpg"
+        },
+        {
+          "recipe_id": "73",
+          "name": "Chick Peas Fattah",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/7r-a.jpg"
+        },
+        {
+          "recipe_id": "72",
+          "name": "Dawoud Basha",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/7r-m.jpg"
+        },
+        {
+          "recipe_id": "71",
+          "name": "Ice-cream Tart",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/6r-sw.jpg"
+        },
+        {
+          "recipe_id": "70",
+          "name": "VEGGIE PIZZA ROLL",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/6r-pizza.jpg"
+        },
+        {
+          "recipe_id": "68",
+          "name": "KEEMA SPAGHETTI ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/spagh-5r.jpg"
+        },
+        {
+          "recipe_id": "67",
+          "name": "GRILLED SHRIMPS SALAD WITH CITRUS AND BEETS ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/5r-salad.jpg"
+        },
+        {
+          "recipe_id": "66",
+          "name": "Tomato Cream Soup",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/su4r.jpg"
+        }
+      ]
+    }
+  }
+}
