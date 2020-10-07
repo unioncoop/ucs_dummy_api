@@ -78,9 +78,11 @@
         "type": "4",
         "title": "",
         "viewMore": "",
-        "widgetData": {
-          "api": "https:\/\/ucsmartapp.unioncoop.ae\/news"
-        }
+        "widgetData": [
+          {
+            "api": "https:\/\/ucsmartapp.unioncoop.ae\/news"
+          }
+        ]
       },
       {
         "type": "6",
