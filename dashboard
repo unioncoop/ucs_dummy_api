@@ -1,6 +1,6 @@
 {
-  "error_code": "1",
-  "error_message": "Success",
+  "code": "1",
+  "message": "Success",
   "data": {
     "blocks": [
       {
