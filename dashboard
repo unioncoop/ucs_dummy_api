@@ -1,0 +1,687 @@
+{
+  "code": "1",
+  "message": "",
+  "data": [
+    {
+      "type": 1,
+      "title": "user info widget",
+      "widgetData": [
+        {
+          
+        }
+      ]
+    },
+    {
+      "type": 2,
+      "title": "offer text widget",
+      "widgetData": [
+        {
+          "name": "Free Delivery on order above 300 AED",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/f\/r\/fresh-tilapia-fish_front.jpg"
+        }
+      ]
+    },
+    {
+      "type": 3,
+      "title": "banner widget",
+      "widgetData": [
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg",
+          "deeplink": "magazine/https://ucsmartapp.unioncoop.ae/data/promotions/AlBadaa--Eng.pdf"
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Ar.jpg",
+          "deeplink": "items/456"
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-App-Banner2--HD--16.jpg",
+          "deeplink": "magazine/https://ucsmartapp.unioncoop.ae/data/promotions/HD16-2020-compressed.pdf"
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-App-Banner-1-Drive-Thru-29-4-2020.jpg",
+          "deeplink": "magazine/https://ucsmartapp.unioncoop.ae/data/promotions/Drive-Through-Flyer5-2020.pdf"
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/notice-23-4-2020-mob.jpg",
+          "deeplink": "items/545"
+        }
+      ]
+    },
+    {
+      "type": 4,
+      "title": "news widget",
+      "widgetData": [
+        {
+          "api": "https://ucsmartapp.unioncoop.ae/news"
+        }
+      ]
+    },
+    {
+      "type": 5,
+      "title": "Services",
+      "viewMore": "service", 
+      "widgetData": [
+        {
+          "deeplink": "service/1",
+          "name": "Smart Receipt",
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg"
+        },
+        {
+          "deeplink": "service/2",
+          "name": "Shop Online",
+          "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+        },
+        {
+          "deeplink": "service/3",
+          "name": "Recipes",
+          "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+        },
+        {
+          "deeplink": "service/4",
+          "name": "Promotion",
+          "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+        },
+        {
+          "deeplink": "service/3",
+          "name": "Recipes",
+          "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+        },
+        {
+          "deeplink": "service/3",
+          "name": "Recipes",
+          "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+        },
+        {
+          "deeplink": "service/3",
+          "name": "Recipes",
+          "image": "https://cdn1.bbcode0.com/uploads/2020/9/1/67e69fd31f39aa18aeedf924ec33d2c2-full.png"
+        }
+      ]
+    },
+    {
+      "type": 6,
+      "title": "1xn carouasl widget",
+      "widgetData": [
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg",
+          "name": "Shop Online",
+          "deeplink": ""
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Ar.jpg",
+          "name": "Jumla",
+          "deeplink": ""
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-App-Banner2--HD--16.jpg",
+          "name": "Deals",
+          "deeplink": ""
+        },
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg",
+          "name": "Shop Online",
+          "deeplink": ""
+        }
+      ]
+    },
+    {
+      "type": 7,
+      "title": "4xn grid widget",
+      "widgetData": [
+        {
+          "deeplink": "items/2767",
+          "name": "Baby Care",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg",
+          "color_code": "8fd3ff"
+        },
+        {
+          "deeplink": "items/2770",
+          "name": "Bread & Bakery",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg",
+          "color_code": "f5d374"
+        },
+        {
+          "deeplink": "items/2765",
+          "name": "Breakfast, Cereal & Pasta",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg",
+          "color_code": "a3c6e3"
+        },
+        {
+          "deeplink": "items/2771",
+          "name": "Butchery & Seafood",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg",
+          "color_code": "91d0d5"
+        },
+        {
+          "deeplink": "items/2768",
+          "name": "Cleaning & Homecare",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg",
+          "color_code": "f87984"
+        },
+        {
+          "deeplink": "items/2783",
+          "name": "Cooking and Baking",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg",
+          "color_code": "f57651"
+        },
+        {
+          "deeplink": "items/2765",
+          "name": "Cereal",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg",
+          "color_code": "f57651"
+        },
+        {
+          "deeplink": "items/2765",
+          "name": "Pasta",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg",
+          "color_code": "91d0d5"
+        }
+      ]
+    },
+    {
+      "type": 8,
+      "title": "tab widget",
+      "widgetData": [
+        {
+          "name": "Top Products",
+          "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/top_product"
+        },
+        {
+          "name": "Most Popular",
+          "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/most_popular"
+        },
+        {
+          "name": "Recommendations",
+          "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/recommended"
+        }
+      ]
+    },
+    {
+      "type": 9,
+      "title": "Mall Store",
+      "widgetData": [
+        {
+          "deeplink": "store/3263",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/New-Arrival-online-dubai.jpg"
+        },
+        {
+          "deeplink": "store/3261",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Outdoors-_-Camping.jpg"
+        },
+        {
+          "deeplink": "store/3068",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/exclusive-in-union-coop.jpg"
+        },
+        {
+          "deeplink": "store/3067",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Best-Price.jpg"
+        },
+        {
+          "deeplink": "store/3065",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Screenshot_20191221-152133_Gallery.jpg"
+        },
+        {
+          "deeplink": "store/3010",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/automobile.jpg"
+        },
+        {
+          "deeplink": "store/2784",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/20191219_193105_1.jpg"
+        },
+        {
+          "deeplink": "store/2778",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fashion.jpg"
+        }
+      ]
+    },
+    {
+      "type": 10,
+      "title": "Grocery",
+      "viewMore": "grocery",
+      "widgetData": [
+        {
+          "pro_id": "25388",
+          "name": "Fresh Tilapia Fish, Per Kg, Egypt",
+          "avail_qty": 5,
+          "sku": "26823",
+          "normal_price": "18.00",
+          "special_price": "0.00",
+          "tamayaz_price": "0.00",
+          "is_favourite": "0",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/f\/r\/fresh-tilapia-fish_front.jpg",
+          "udstr4": "W",
+          "selling_unit": "KG",
+          "available_stock": true,
+          "show_cart_btn": true,
+          "offer_text": "30%off",
+          "rating": "3.6"
+        },
+        {
+          "pro_id": "25409",
+          "name": "Shrimps 20-30 Fresh, Per Kg, Pakistan",
+          "avail_qty": 0,
+          "sku": "27155",
+          "normal_price": "52.00",
+          "special_price": "0.00",
+          "tamayaz_price": "0.00",
+          "is_favourite": "0",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/h\/shrimps_20-30_fresh_per_kg_pakistan.jpg",
+          "udstr4": "W",
+          "selling_unit": "KG",
+          "available_stock": true,
+          "show_cart_btn": true,
+          "offer_text": "30%off",
+          "rating": "3.6"
+        },
+        {
+          "pro_id": "63334",
+          "name": "Fresh Squid 20-30, Per Kg, Pakistan",
+          "avail_qty": 10,
+          "sku": "26968",
+          "normal_price": "31.00",
+          "special_price": "0.00",
+          "tamayaz_price": "0.00",
+          "is_favourite": "0",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/f\/r\/fresh-squid-20-30_front.jpg",
+          "udstr4": "W",
+          "selling_unit": "KG",
+          "available_stock": true,
+          "show_cart_btn": true
+        },
+        {
+          "pro_id": "25335",
+          "name": "Bia-H Small Fish, Per Kg, Uae",
+          "avail_qty": 0,
+          "sku": "14308",
+          "normal_price": "17.00",
+          "special_price": "0.00",
+          "tamayaz_price": "0.00",
+          "is_manage_stock": false,
+          "is_favourite": "0",
+          "is_grocery_product": "1",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/b\/i\/bia-h-small-fish_front.jpg",
+          "udstr4": "W",
+          "selling_unit": "KG",
+          "available_stock": true,
+          "show_cart_btn": true
+        },
+        {
+          "pro_id": "17641",
+          "name": "Salmon Fillet Portion Ski, Per Kg, Norway",
+          "avail_qty": 0,
+          "sku": "33801",
+          "normal_price": "86.00",
+          "special_price": "0.00",
+          "tamayaz_price": "0.00",
+          "is_favourite": "0",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/a\/salmon-fillet-portion-with-skin_front.jpg",
+          "udstr4": "W",
+          "selling_unit": "KG",
+          "available_stock": false,
+          "show_cart_btn": false
+        },
+        {
+          "pro_id": "17535",
+          "name": "Fresh Garfa Fish, Per Kg, Uae",
+          "avail_qty": 0,
+          "sku": "14283",
+          "normal_price": "24.00",
+          "special_price": "0.00",
+          "tamayaz_price": "0.00",
+          "packing": null,
+          "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
+          "is_favourite": "0",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/placeholder\/default\/union-coop-placeholder-image-265X265.png",
+          "udstr4": "W",
+          "selling_unit": "KG",
+          "available_stock": true
+        },
+        {
+          "pro_id": "21284",
+          "name": "Sea Bass Fish, Per Kg, Turkey",
+          "avail_qty": 0,
+          "sku": "23499",
+          "normal_price": "39.00",
+          "special_price": "0.00",
+          "tamayaz_price": "0.00",
+          "packing": null,
+          "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
+          "is_favourite": "0",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/e\/sea-bass-fish_front.jpg",
+          "udstr4": "W",
+          "selling_unit": "KG",
+          "available_stock": true
+        },
+        {
+          "pro_id": "21287",
+          "name": "Sea Braem Fish, Per Kg, Turkey",
+          "avail_qty": 0,
+          "sku": "24537",
+          "normal_price": "40.00",
+          "special_price": "0.00",
+          "tamayaz_price": "0.00",
+          "packing": null,
+          "short_description": "All prices are including VATThis item is Non-Cancelable &amp; Non-Returnable.",
+          "is_favourite": "0",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/s\/e\/sea-braem-fish_front.jpg",
+          "udstr4": "W",
+          "selling_unit": "KG",
+          "available_stock": true
+        }
+      ]
+    },
+    {
+      "type": 11,
+      "widgetData": [
+        {
+          "image": "https://ucsmartapp.unioncoop.ae//data/promotions/Mobile-banner-AlBadaa--Eng.jpg",
+          "deeplink": "items/456"
+        }
+      ]
+    },
+    {
+      "type": 12,
+      "title": "Recipes",
+      "viewMore": "",
+      "widgetData": [
+        {
+          "deeplink": "recipe/5",
+          "name": "Emarati Dish Machboos",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/12345.png"
+        },
+        {
+          "deeplink": "recipe/6",
+          "name": "Chicken Fried Rice",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/555.png"
+        },
+        {
+          "deeplink": "recipe/7",
+          "name": "Sambosa",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/SAMBOSA.jpg"
+        },
+        {
+          "deeplink": "recipe/8",
+          "name": "Chicken Biryani",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/BERIYANY1.png"
+        },
+        {
+          "deeplink": "recipe/9",
+          "name": "Chicken Pasta in Red Sauce with Broccoli",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/PASTA.png"
+        },
+        {
+          "deeplink": "recipe/11",
+          "name": "Accordion Potatoes",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/Accordionp-potatoes.jpg"
+        },
+        {
+          "deeplink": "recipe/13",
+          "name": "Best for a Picnic Yummy Chicken Club Sandwish",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/index.jpg"
+        },
+        {
+          "deeplink": "recipe/15",
+          "name": "Szechwan Chilli Chicken",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/888.png"
+        },
+        {
+          "deeplink": "recipe/16",
+          "name": "The Best Pan-Fried Potatoes For Sahoor",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/2ndramdan.jpg"
+        },
+        {
+          "deeplink": "recipe/20",
+          "name": "Shakshuka",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/Shakshuka-center-avocado-800x535.jpg"
+        },
+        {
+          "deeplink": "recipe/25",
+          "name": "Falafel",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/flafl.jpg"
+        },
+        {
+          "deeplink": "recipe/27",
+          "name": "Salmon with Tomatoes and Capers",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/salmon.jpg"
+        },
+        {
+          "deeplink": "recipe/28",
+          "name": "Chicken-with-sumac &onion",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/23.jpg"
+        },
+        {
+          "deeplink": "recipe/33",
+          "name": "Quick & Easy Turkey Sloppy Joes",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/r123.jpg"
+        },
+        {
+          "deeplink": "recipe/39",
+          "name": "Simple Beef Pot Roast",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/beef123.jpg"
+        },
+        {
+          "deeplink": "recipe/42",
+          "name": "Angel Chicken Pasta",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/2468.jpg"
+        },
+        {
+          "deeplink": "recipe/44",
+          "name": "Egyptian Macaroni Bechamel",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/BASHAMEL.jpg"
+        },
+        {
+          "deeplink": "recipe/45",
+          "name": "Tuna Biryani",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/TUNA2.jpg"
+        },
+        {
+          "deeplink": "recipe/46",
+          "name": "Egyptian Hawawshi",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/hawawshy.jpg"
+        },
+        {
+          "deeplink": "recipe/47",
+          "name": "Rice B\u00e9chamel With Chicken ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/bbb.jpg"
+        },
+        {
+          "deeplink": "recipe/48",
+          "name": "Traditional Egyptian Stuffed Cabbage ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/mahshi.jpg"
+        },
+        {
+          "deeplink": "recipe/49",
+          "name": "QUINOA VINE LEAVES WITH LAMB CHOPS ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/555.jpg"
+        },
+        {
+          "deeplink": "recipe/51",
+          "name": "STICKY ZESTY CHICKEN",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/CHKN.jpg"
+        },
+        {
+          "deeplink": "recipe/52",
+          "name": "ARABIAN ROAST LAMB WITH RICE ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/lamp.jpg"
+        },
+        {
+          "deeplink": "recipe/55",
+          "name": "Shrimp Saffron with Vegetable B\u00e9chamel",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/pasta_1.jpg"
+        },
+        {
+          "deeplink": "recipe/56",
+          "name": "Chicken With Garlic Sauce",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/chkn3.jpg"
+        },
+        {
+          "deeplink": "recipe/61",
+          "name": "Bulgur With Tomato",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/day4.jpg"
+        },
+        {
+          "deeplink": "recipe/62",
+          "name": "Sea Food with B\u00e9chamel",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/4ramdan.jpg"
+        },
+        {
+          "deeplink": "recipe/63",
+          "name": "B\u00e9chamel stuffed chicken with cheese",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/ramdan-4III.jpg"
+        },
+        {
+          "deeplink": "recipe/67",
+          "name": "GRILLED SHRIMPS SALAD WITH CITRUS AND BEETS ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/5r-salad.jpg"
+        },
+        {
+          "deeplink": "recipe/68",
+          "name": "KEEMA SPAGHETTI ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/spagh-5r.jpg"
+        },
+        {
+          "deeplink": "recipe/72",
+          "name": "Dawoud Basha",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/7r-m.jpg"
+        },
+        {
+          "deeplink": "recipe/75",
+          "name": "EGYPTIAN MOLOKHIA",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/r7-m.jpg"
+        },
+        {
+          "deeplink": "recipe/76",
+          "name": "Potato Gratin",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/789pot.jpg"
+        }
+      ]
+    },
+    {
+      "type": 13,
+      "title": "Restaurant",
+      "viewMore": "",
+      "widgetData": [
+        {
+          "deeplink": "restaurant/5",
+          "name": "Thina Food Valley",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/12345.png",
+          "description": "Chinese,indian"
+        },
+        {
+          "deeplink": "restaurant/6",
+          "name": "Chicken King",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/555.png",
+          "description": "Chinese,indian"
+        },
+        {
+          "deeplink": "restaurant/7",
+          "name": "Sambosa Restaurant",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/SAMBOSA.jpg",
+          "description": "Chinese,indian"
+        },
+        {
+          "deeplink": "restaurant/8",
+          "name": "Biryani Kitchen",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/BERIYANY1.png",
+          "description": "Chinese,indian"
+        },
+        {
+          "deeplink": "restaurant/9",
+          "name": "Chicken Pasta Darbar",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/PASTA.png",
+          "description": "Chinese,indian"
+        },
+        {
+          "deeplink": "restaurant/11",
+          "name": "Potatoes Kitchen",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/receipe\/receipe\/Accordionp-potatoes.jpg",
+          "description": "Chinese,indian"
+        }
+      ]
+    },
+    {
+      "type": 14,
+      "title": "3xn grid widget",
+      "widgetData": [
+        {
+          "deeplink": "items/2767",
+          "name": "Baby Care",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg",
+          "color_code": "8fd3ff"
+        },
+        {
+          "deeplink": "items/2770",
+          "name": "Bread & Bakery",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg",
+          "color_code": "8fd3ff"
+        },
+        {
+          "deeplink": "items/2765",
+          "name": "Breakfast, Cereal & Pasta",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg",
+          "color_code": "8fd3ff"
+        },
+        {
+          "deeplink": "items/2771",
+          "name": "Butchery & Seafood",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg",
+          "color_code": "8fd3ff"
+        },
+        {
+          "deeplink": "items/2768",
+          "name": "Cleaning & Homecare",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg",
+          "color_code": "8fd3ff"
+        },
+        {
+          "deeplink": "items/2783",
+          "name": "Cooking and Baking",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg",
+          "color_code": "8fd3ff"
+        }
+      ]
+    },
+    {
+      "type": 15,
+      "title": "2xn grid widget",
+      "widgetData": [
+        {
+          "deeplink": "items/2767",
+          "name": "Baby Care",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg",
+          "color_code": "8fd3ff"
+        },
+        {
+          "deeplink": "items/2770",
+          "name": "Bread & Bakery",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/bakery-online-Dubai.jpg",
+          "color_code": "8fd3ff"
+        },
+        {
+          "deeplink": "items/2765",
+          "name": "Breakfast, Cereal & Pasta",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_breakfast_UNION_COOP_SUBCATEGORY.jpg",
+          "color_code": "8fd3ff"
+        },
+        {
+          "deeplink": "items/2771",
+          "name": "Butchery & Seafood",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/chicken-meat-fish-online.jpg",
+          "color_code": "8fd3ff"
+        },
+        {
+          "deeplink": "items/2768",
+          "name": "Cleaning & Homecare",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/cleaning-homecare-online-dubai.jpg",
+          "color_code": "8fd3ff"
+        },
+        {
+          "deeplink": "items/2783",
+          "name": "Cooking and Baking",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Nestle_maggie_teads_UNION_COOP_SUBCATEGORY.jpg",
+          "color_code": "8fd3ff"
+        }
+      ]
+    }
+  ]
+}
