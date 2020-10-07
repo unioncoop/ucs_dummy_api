@@ -7,18 +7,22 @@
         "type": "2",
         "title": "",
         "viewMore": "",
-        "widgetData": {
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/f\/r\/fresh-tilapia-fish_front.jpg",
-          "name": "Free Delivery on order above 300 AED"
-        }
+        "widgetData": [
+          {
+            "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/product\/cache\/1\/thumbnail\/450x450\/9df78eab33525d08d6e5fb8d27136e95\/f\/r\/fresh-tilapia-fish_front.jpg",
+            "name": "Free Delivery on order above 300 AED"
+          }
+        ]
       },
       {
         "type": "1",
         "title": "",
         "viewMore": "",
-        "widgetData": {
-          "api": ""
-        }
+        "widgetData": [
+          {
+            "api": ""
+          }
+        ]
       },
       {
         "type": "3",
