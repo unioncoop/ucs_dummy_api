@@ -58,15 +58,15 @@
       "widgetData": [
         {
          "name": "Top Products",
-          "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/top_product"
+          "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/item_listing"
         },
         {
           "name": "Most Popular",
-          "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/most_popular"
+          "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/item_listing"
         },
         {
           "name": "Recommended",
-          "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/recommended"
+          "api": "https://raw.githubusercontent.com/unioncoop/ucs_dummy_api/master/item_listing"
         }
       ]
     }
