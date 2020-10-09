@@ -1,5 +1,5 @@
 {
-  "type": "keyword or category_id or tag_id",
+  "type": "keyword or category_id or tag_id or items(for others like deal/jumla etc )",
   "value": "milk",
   "page": "1",
   "sort_by": "price",
