@@ -4,8 +4,8 @@
   "data": {
     "type": "keyword or category_id or tag_id",
     "value": "12",
-    "total_page": "10",
-    "total_items": "95",
+    "total_page": 10,
+    "total_items": 95,
     "price_max": "87",
     "price_min": "86",
     "list": [
