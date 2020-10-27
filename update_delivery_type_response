@@ -1,0 +1,25 @@
+{
+  "code": "1",
+  "message": "success",
+  "data": {
+    "shipping_type": "home_delivery",
+    "delivery_address": {
+      "name": "Mohd  Farhan",
+      "mobile": "561903920",
+      "address": "402 Silicon Gate 3,Dubai Silicon Oasis,Zaal,Al Baraha,Dubai,United Arab Emirates,T: 561903920",
+      "address_id": "33444",
+      "area_id": "546",
+      "city_id": "546"
+    },
+    "branch_address": {
+      "area_id": null,
+      "branch_code": "17",
+      "branch_name": "Barsha",
+      "address": "",
+      "store_location_link": null,
+      "latitude": null,
+      "longitude": null,
+      "city_id": false
+    }
+  }
+}
