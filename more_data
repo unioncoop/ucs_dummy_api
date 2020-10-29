@@ -44,6 +44,11 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
           },
           {
+            "deeplink": "complai_suggestion",
+            "name": "Complain & Suggestion",
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
+          },
+          {
             "deeplink": "my_card",
             "name": "My Card",
             "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
