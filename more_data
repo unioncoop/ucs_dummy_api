@@ -14,7 +14,7 @@
         "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/box.png?alt=media&token=a54318cd-eadf-400f-abbc-7c68052b3c32"
       },
       {
-        "deeplink": "recipe_category",
+        "deeplink": "recipes",
         "name": "Recipe",
         "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/box.png?alt=media&token=a54318cd-eadf-400f-abbc-7c68052b3c32"
       },
