@@ -92,6 +92,11 @@
             "deeplink": "web/https://www.unioncoop.ae/term-of-use-union-coop/",
             "name": "Term & Condition",
             "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/catg.png?alt=media&token=f06a755e-ff45-4a01-ba07-83675db0ad0a"
+          },
+          {
+            "deeplink": "logout",
+            "name": "Log Out",
+            "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/catg.png?alt=media&token=f06a755e-ff45-4a01-ba07-83675db0ad0a"
           }
         ]
       }
