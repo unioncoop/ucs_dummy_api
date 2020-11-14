@@ -18,7 +18,7 @@
       {
         "deeplink": "recipes",
         "name": "Recipe",
-        "isLoginRequired": "true",
+        "isLoginRequired": "false",
         "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/box.png?alt=media&token=a54318cd-eadf-400f-abbc-7c68052b3c32"
       },
       {
@@ -70,13 +70,13 @@
           {
             "deeplink": "complain_suggestion",
             "name": "Complain & Suggestion",
-            "isLoginRequired": "true",
+            "isLoginRequired": "false",
             "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
           },
           {
             "deeplink": "notification",
             "name": "Notification",
-            "isLoginRequired": "true",
+            "isLoginRequired": "false",
             "image": "https://firebasestorage.googleapis.com/v0/b/unioncoopios.appspot.com/o/home.png?alt=media&token=c2b1a490-95e3-4913-9a64-bdde0caad335"
           },
           {
